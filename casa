@@ -47,956 +47,2947 @@ https://live-05-13-la100.vodgc.net/live-05-13-la100/tracks-v3a1/mono.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 
-#EXTINF:-1 tvg-id="FM MAS" tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F2765ba4f0b69d264f4338c416a33a96c65f001b6ab35559f6e9836c29a395c16.jpg" group-title="TODOS",fm mas
-#EXTINF:-1,•●★--DEPORTES ARGENTINA--★●•
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/59814
-#EXTINF:-1,ARG-TNT Sports (L)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/309414
-#EXTINF:-1,ARG-TNT Sports (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153802
-#EXTINF:-1,ARG-TYC Sports Local (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/22127
-#EXTINF:-1,ARG-TyC Sports Local (L)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/59813
-#EXTINF:-1,ARG-Fox Sports Premium (T)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/59809
-#EXTINF:-1,ARG-Garage TV (M)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/1531
-#EXTINF:-1,ARG-America (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/116192
-#EXTINF:-1,ARG-America TV (M)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/22094
-#EXTINF:-1,ARG-America TV (M)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/116193
-#EXTINF:-1,ARG-C5N (M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/22097
-#EXTINF:-1,ARG-Canal 26 (L)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/22100
-#EXTINF:-1,ARG-Canal De La Ciudad (M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/22102
-#EXTINF:-1,ARG-Ciudad Magazine (M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/22104
-#EXTINF:-1,ARG-Cronica (L)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/22108
-#EXTINF:-1,ARG-El Nueve (M)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/22101
-#EXTINF:-1,ARG-El Nueve (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/116197
-#EXTINF:-1,ARG-El Trece (M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/22098
-#EXTINF:-1,ARG-El Trece (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/116199
-#EXTINF:-1,ARG-LN (L)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153864
-#EXTINF:-1,ARG-LN+ (T)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/22115
-#EXTINF:-1,ARG-Telefe (L)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/101841
-#EXTINF:-1,ARG-Telefe (M)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/22121
-#EXTINF:-1,ARG-Telefe (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/116201
-#EXTINF:-1,ARG-Telefe Internacional (Z)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153865
-#EXTINF:-1,ARG-Telemax (T)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/22122
-#EXTINF:-1,ARG-TN (M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/22124
-#EXTINF:-1,ARG-TV Publica (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153866
-#EXTINF:-1,ARG-TV Publica (M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/22125
-#EXTINF:-1,ARG-TV Publica (Z)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/116203
-#EXTINF:-1,ARG-TV5 (M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/22126
-#EXTINF:-1,ARG-Volver (M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/22128
-#EXTINF:-1,BOL-ATB (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153974
-#EXTINF:-1,BOL-Bolivision (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3751
-#EXTINF:-1,BOL-Tigo Sports (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153977
-#EXTINF:-1,BOL-Tigo Sports 3 (SD)(M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3745
-#EXTINF:-1,•●★--DEPORTES CHILE--★●•
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/58101
-#EXTINF:-1,CHI PPV 1 - (e)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/358818
-#EXTINF:-1,CHI-PPV 2 -
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/325351
-#EXTINF:-1,CHI-TNT Sports (PM)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/361898
-#EXTINF:-1,CHI-TNT Sports (PM)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/361899
-#EXTINF:-1,CHI-TNT Sports 1 (e)(4K)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/361337
-#EXTINF:-1,CHI-TNT Sports 1 (e)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/361338
-#EXTINF:-1,CHI-TNT Sports 2 (PM)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/69931
-#EXTINF:-1,CHI-TNT Sports 2 (PM)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/69932
-#EXTINF:-1,CHI-TNT Sports 2 (L)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/361900
-#EXTINF:-1,CHI-TNT Sports 3 (T)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/140909
-#EXTINF:-1,CHI-TNT Sports 3 (TV)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/361901
-#EXTINF:-1,CHI-Estadio TNT Sports (M)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/140910
-#EXTINF:-1,CHI-Espn 1 (PM)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/1001
-#EXTINF:-1,CHI-Espn 1 (PM)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/1002
-#EXTINF:-1,CHI-Espn 1 (L)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/1003
-#EXTINF:-1,CHI-Espn 2 (M)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/31524
-#EXTINF:-1,CHI-Espn 2 (TV)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/31523
-#EXTINF:-1,CHI-ESPN Premium CL (PM)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/998
-#EXTINF:-1,CHI-ESPN Premium CL (PM)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/136230
-#EXTINF:-1,CHI-ESPN Premium CL (PM)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/1000
-#EXTINF:-1,CHI-Directv 1 (e)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/361902
-#EXTINF:-1,CHI-Fox Sports 2 (M)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/1020
-#EXTINF:-1,CHI-Fox Sports 2 (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/63081
-#EXTINF:-1,CHI-CDO 2 (TV)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3201
-#EXTINF:-1,CHI-CDO Premium (L)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/994
-#EXTINF:-1,CHI-CDO Premium 1 (e)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/2748
-#EXTINF:-1,CHI-24 Horas (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/31527
-#EXTINF:-1,CHI-24 Horas (M)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3206
-#EXTINF:-1,CHI-Canal 13 (M)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153867
-#EXTINF:-1,CHI-Canal 13 (L)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/218477
-#EXTINF:-1,CHI-Canal 13 (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/1016
-#EXTINF:-1,CHI-Canal 13 Opc 2 (M)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/1014
-#EXTINF:-1,CHI-Canal 13 (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3197
-#EXTINF:-1,CHI-Canal 13c (M)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/2751
-#EXTINF:-1,CHI-Canal 13c (L)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/218476
-#EXTINF:-1,CHI-Chilevision (PM)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/140901
-#EXTINF:-1,CHI-Chilevision (L)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/218478
-#EXTINF:-1,CHI-Chilevision (PM)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/1011
-#EXTINF:-1,CHI-CNN CL (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/31521
-#EXTINF:-1,CHI-CNN CL (M)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3203
-#EXTINF:-1,CHI-ETC (PM)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/1027
-#EXTINF:-1,CHI-ETC (PM)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153873
-#EXTINF:-1,CHI-La Red (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153874
-#EXTINF:-1,CHI-La Red TV (PM)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/995
-#EXTINF:-1,CHI-LA Red TV (PM)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/996
-#EXTINF:-1,CHI-Mega (X)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153875
-#EXTINF:-1,CHI-Mega (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/1008
-#EXTINF:-1,CHI-Mega (T)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/1009
-#EXTINF:-1,CHI-Mega (L)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/1010
-#EXTINF:-1,CHI-TV+ (L)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/69933
-#EXTINF:-1,CHI-TVN (L)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/1017
-#EXTINF:-1,CHI-TVN (L)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/218488
-#EXTINF:-1,CHI-TVN (M)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/36500
-#EXTINF:-1,CHI-TVN (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/1018
-#EXTINF:-1,•●★--DEPORTES COLOMBIA--★●•
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/60143
-#EXTINF:-1,COL PPV 1 - (e)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/358817
-#EXTINF:-1,COL-WinSports + (L)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/23129
-#EXTINF:-1,COL-Winsport + (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/59855
-#EXTINF:-1,COL-WinSports + (Z)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/23130
-#EXTINF:-1,COL-WinSports + (TV)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/144406
-#EXTINF:-1,COL-WinSports + (M)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/309412
-#EXTINF:-1,COL-WinSports (M)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3419
-#EXTINF:-1,COL-WinSports (L)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/309411
-#EXTINF:-1,COL-Winsports (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/59856
-#EXTINF:-1,COL-WinSports (L)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/309413
-#EXTINF:-1,COL-WinSports (M)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3420
-#EXTINF:-1,COL-Claro Sports (M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/22142
-#EXTINF:-1,COL-Directv Sports (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/154283
-#EXTINF:-1,COL-Directv Sports + (T)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/154284
-#EXTINF:-1,COL-Cable Noticias (TV)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/59845
-#EXTINF:-1,COL-Caracol (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/59848
-#EXTINF:-1,COL-Caracol (Z)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/115772
-#EXTINF:-1,COL-Caracol (L)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/118351
-#EXTINF:-1,COL-Caracol (M) (SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/22144
-#EXTINF:-1,COL-Caracol (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/59847
-#EXTINF:-1,COL-Caracol Internacional (M)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/53535
-#EXTINF:-1,COL-Caracol Internacional (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/118352
-#EXTINF:-1,COL-RCN (Z)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/59852
-#EXTINF:-1,COL-RCN (Z)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/22137
-#EXTINF:-1,COL-RCN (M)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/22135
-#EXTINF:-1,COL-RCN Novelas (X)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/22133
-#EXTINF:-1,COL-RCN Nuestra Tele (M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/22134
-#EXTINF:-1,COL-RCN Internacional (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/118354
-#EXTINF:-1,COL-Canal Uno (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/59846
-#EXTINF:-1,COL-Canal Uno (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/118350
-#EXTINF:-1,COL-City TV (Z)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/118369
-#EXTINF:-1,COL-Señal Colombia (TV)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/118372
-#EXTINF:-1,COL-TeleAntioquia (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/118356
-#EXTINF:-1,COL-TeleCafe (M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/5359
-#EXTINF:-1,COL-Telemedellin (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/118358
-#EXTINF:-1,COL-Telepacifico (TV)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/118410
-#EXTINF:-1,COL-TV Agro (M)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/118373
-#EXTINF:-1,CR-Canal 13 (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153878
-#EXTINF:-1,CR-Canal 14 Tv Sur (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153879
-#EXTINF:-1,CR-Extrema TV (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153880
-#EXTINF:-1,CR-FUTV (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153877
-#EXTINF:-1,CR-FUTV (M)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/107222
-#EXTINF:-1,CR-FUTV (L)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/107221
-#EXTINF:-1,CR-Repretel 11 (M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3731
-#EXTINF:-1,CR-Repretel 11 (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153885
-#EXTINF:-1,CR-Repretel 4 (M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3732
-#EXTINF:-1,CR-Repretel 4 (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153886
-#EXTINF:-1,CR-Repretel 6 (M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3733
-#EXTINF:-1,CR-Repretel 6 (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153887
-#EXTINF:-1,CR-TD +2 (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153889
-#EXTINF:-1,CR-TD+ (M)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/60365
-#EXTINF:-1,CR-TD+ (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153881
-#EXTINF:-1,CR-TD+2 (M)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/60364
-#EXTINF:-1,CR-Tele Uno (L)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153888
-#EXTINF:-1,CR-Telesur (Z)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153882
-#EXTINF:-1,CR-Teletica (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153883
-#EXTINF:-1,CR-Teletica 7 (X)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3734
-#EXTINF:-1,CR-Tigo Sports (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153884
-#EXTINF:-1,CR-Tigo Sports 1 (1080)(M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3735
-#EXTINF:-1,CUB - Cubavision (M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3729
-#EXTINF:-1,CUB - Cubavision (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/119686
-#EXTINF:-1,CUB - Cubavision Internacional (M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3730
-#EXTINF:-1,CUB - Tele Rebelde (Z)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/119688
-#EXTINF:-1,•●★--DEPORTES ECUADOR--★●•
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/60145
-#EXTINF:-1,ECU-Canal Del Futbol (e)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/362510
-#EXTINF:-1,ECU-Canal Del Futbol (e)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/362509
-#EXTINF:-1,ECU-Directv Sports (e)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/989
-#EXTINF:-1,ECU-Directv Sports (e)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/990
-#EXTINF:-1,ECU-Directv Sports (e)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/991
-#EXTINF:-1,ECU-Teleamazonas Quito (e)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/121622
-#EXTINF:-1,ECU-Teleamazonas Quito (e)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/121623
-#EXTINF:-1,ECU-Teleamazonas Quito (e)(1080) Opc 2
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/121624
-#EXTINF:-1,ECU-TeleAmazonas Costa (e)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/384103
-#EXTINF:-1,ECU-TeleAmazonas Costa (e)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/384104
-#EXTINF:-1,ECU-TeleAmazonas Costa (e)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/384105
-#EXTINF:-1,ECU-Teleamazona Costa (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/22156
-#EXTINF:-1,ECU-Ecuavisa Quito (e)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/121619
-#EXTINF:-1,ECU-Ecuavisa Quito (e)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/121620
-#EXTINF:-1,ECU-Ecuavisa Quito (L)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/121621
-#EXTINF:-1,ECU-Ecuavisa Costa (e)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/384106
-#EXTINF:-1,ECU-Ecuavisa Costa(e)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/384107
-#EXTINF:-1,ECU-Ecuavisa Costa (e)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/384108
-#EXTINF:-1,ECU-RTS Costa (e)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/1103
-#EXTINF:-1,ECU-RTS Costa (M)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/1105
-#EXTINF:-1,ECU-RTS Costa(e)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/384109
-#EXTINF:-1,ECU-TC Television Costa (e)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/384110
-#EXTINF:-1,ECU-TC Television Costa (e)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/384111
-#EXTINF:-1,ECU-TC Television Quito (e)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/350674
-#EXTINF:-1,ECU-TC Television Quito (e)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/350675
-#EXTINF:-1,ECU-TC Television (TV)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/22155
-#EXTINF:-1,ECU-Gama Tv (e)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/121625
-#EXTINF:-1,ECU-Gama Tv (e)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/121626
-#EXTINF:-1,ECU-TVC UIO (PM)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/180319
-#EXTINF:-1,ECU-Oromar (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/1101
-#EXTINF:-1,ECU-RTU (M)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/22151
-#EXTINF:-1,GUA-Canal 11 (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153914
-#EXTINF:-1,GUA-Canal 11 (M)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/60138
-#EXTINF:-1,GUA-Canal 3 (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153912
-#EXTINF:-1,GUA-Canal 3 (M)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/60136
-#EXTINF:-1,GUA-Canal 7 (720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153907
-#EXTINF:-1,GUA-Canal 7 (M)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/60137
-#EXTINF:-1,GUA-Canal Antigua (M)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/60139
-#EXTINF:-1,GUA-Claro Sports GT (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153904
-#EXTINF:-1,GUA-Guatevision (L)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153909
-#EXTINF:-1,GUA-Guatevision (M)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/60140
-#EXTINF:-1,GUA-Retro Tv (TV)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/60141
-#EXTINF:-1,GUA-Tigo Sport + (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153911
-#EXTINF:-1,GUA-Tigo Sport + (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153905
-#EXTINF:-1,GUA-Tigo Sports GT (Z)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/140902
-#EXTINF:-1,GUA-TN23 (TV)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/60142
-#EXTINF:-1,HON-Canal 11 (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153920
-#EXTINF:-1,HON-Canal 11 (M)(HQ)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/100801
-#EXTINF:-1,HON-Canal 5 (T)(HQ)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/100802
-#EXTINF:-1,HON-HCH (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153918
-#EXTINF:-1,HON-HCH (M)(HQ)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/100803
-#EXTINF:-1,HON-Que Hubo TV (T)(HQ)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/100810
-#EXTINF:-1,HON-TVC Deporte (M)(HQ)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/100805
-#EXTINF:-1,HON-Teleceiba (T)(HQ)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/100813
-#EXTINF:-1,HON-Telesistema (M)(HQ)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/100798
-#EXTINF:-1,HON-Telesistema (M)(HQ)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/100806
-#EXTINF:-1,HON-Tigo sports (L)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153916
-#EXTINF:-1,HON-Tigo Sports (M)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/5350
-#EXTINF:-1,HON-VTV (T)(HQ)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/100807
-#EXTINF:-1,MEX-ADN 40 (M)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/1358
-#EXTINF:-1,MEX-ADN 40 (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26681
-#EXTINF:-1,MEX-Afizzionados (L)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153303
-#EXTINF:-1,MEX-Afizzionados (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/115776
-#EXTINF:-1,MEX-Amas Tv (Z)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153529
-#EXTINF:-1,MEX-Antena 3 (M)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26951
-#EXTINF:-1,MEX-Aym Sports (M)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26700
-#EXTINF:-1,MEX-Az Cinema (M)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26963
-#EXTINF:-1,MEX-Az Clic (L)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26691
-#EXTINF:-1,MEX-Az Clic (TV)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26955
-#EXTINF:-1,MEX-AZ Corazon (TV)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153539
-#EXTINF:-1,MEX-Az Corazón (M)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26687
-#EXTINF:-1,MEX-Az Mundo (M)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26982
-#EXTINF:-1,MEX-Azteca 7 (L)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26680
-#EXTINF:-1,MEX-Azteca 7 (L)(LQ)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/180063
-#EXTINF:-1,MEX-Azteca 7 (M)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/1330
-#EXTINF:-1,MEX-Azteca Corazon (M)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/1332
-#EXTINF:-1,MEX-Azteca Deportes (L)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/180061
-#EXTINF:-1,MEX-Azteca Uno (M)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/1329
-#EXTINF:-1,MEX-Canal 10 Cancun (L)(LOCAL)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153542
-#EXTINF:-1,MEX-Canal 5 (M)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26973
-#EXTINF:-1,MEX-Canal 5 (M)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26678
-#EXTINF:-1,MEX-Canal Once (Z)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153531
-#EXTINF:-1,MEX-Cinema Dinamita (L)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/59686
-#EXTINF:-1,MEX-Claro Sports (M)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/22141
-#EXTINF:-1,MEX-Comedy Central (M)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26719
-#EXTINF:-1,MEX-DW (M)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26732
-#EXTINF:-1,MEX-El Financiero (M)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26961
-#EXTINF:-1,MEX-El Financiero Bloomberg (M)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26699
-#EXTINF:-1,MEX-Estrellas News (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153533
-#EXTINF:-1,MEX-Foro TV (M)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26979
-#EXTINF:-1,MEX-Foro TV (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153534
-#EXTINF:-1,MEX-France 24 (M)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26977
-#EXTINF:-1,MEX-Garage TV (M)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26692
-#EXTINF:-1,MEX-Glitz (M)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26953
-#EXTINF:-1,MEX-Hola TV (M)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26686
-#EXTINF:-1,MEX-Hola TV (X)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26958
-#EXTINF:-1,MEX-Imagen TV (X)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/58099
-#EXTINF:-1,MEX-Ingenio TV (M)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26730
-#EXTINF:-1,MEX-Las Estrellas (M)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26945
-#EXTINF:-1,MEX-Las Estrellas (M)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26677
-#EXTINF:-1,MEX-Las Estrellas (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153528
-#EXTINF:-1,MEX-Milenio TV (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26981
-#EXTINF:-1,MEX-Multimedio Guadalajara (L)(LOCAL)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153546
-#EXTINF:-1,MEX-Multimedio Monterrey (L)(LOCAL)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153547
-#EXTINF:-1,MEX-Multimedios (TV)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/1354
-#EXTINF:-1,MEX-Multimedios (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26954
-#EXTINF:-1,MEX-Multimedios Plus (M)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26967
-#EXTINF:-1,MEX-Más Chic (M)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26688
-#EXTINF:-1,MEX-Nu9ve (TV)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26964
-#EXTINF:-1,MEX-Once TV (TV)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26968
-#EXTINF:-1,MEX-Px Sports (tv)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26694
-#EXTINF:-1,MEX-RMS (M)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/1360
-#EXTINF:-1,MEX-Sundance (M)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26722
-#EXTINF:-1,MEX-Sundance (L)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26976
-#EXTINF:-1,MEX-Telefórmula (L)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26956
-#EXTINF:-1,MEX-Telemundo (M)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/1362
-#EXTINF:-1,MEX-Televisa MTY (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26984
-#EXTINF:-1,MEX-Televisa Puebla (L)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26962
-#EXTINF:-1,MEX-Televisa Puebla (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/1346
-#EXTINF:-1,MEX-TLN Novelas (M)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26727
-#EXTINF:-1,MEX-Tlnovelas (M)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153536
-#EXTINF:-1,MEX-Tru TV (M)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26960
-#EXTINF:-1,MEX-TV Lobo (X)(LOCAL)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153575
-#EXTINF:-1,MEX-TVC (L)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26735
-#EXTINF:-1,MEX-TVC Deportes (L)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26966
-#EXTINF:-1,MEX-TVE (M)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/26721
-#EXTINF:-1,MEX-Unicable (TV)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153541
-#EXTINF:-1,MEX-Unicable (T)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/1365
-#EXTINF:-1,MX | Azteca Deportes (L) (1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/180062
-#EXTINF:-1,NIC-Canal 10 (M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/5542
-#EXTINF:-1,NIC-Canal 13 (M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/5544
-#EXTINF:-1,NIC-Canal 14 (M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/5545
-#EXTINF:-1,NIC-Canal 2 (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153927
-#EXTINF:-1,NIC-Canal 2 (M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/5538
-#EXTINF:-1,NIC-Canal 4 (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153928
-#EXTINF:-1,NIC-Canal 6 (M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/5540
-#EXTINF:-1,NIC-Canal 8 (M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/5541
-#EXTINF:-1,NIC-Canal 8 TN8 (L)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153930
-#EXTINF:-1,NOV - America Teve (L)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153893
-#EXTINF:-1,PAN-Cable Onda Sports (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/154206
-#EXTINF:-1,PAN-Cable Onda Sports (M)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/58455
-#EXTINF:-1,PAN-Cable Onda Sports (T)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/115830
-#EXTINF:-1,PAN-Cable Onda Sports FC (M)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/58454
-#EXTINF:-1,PAN-Cable Onda Sports FC (T)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/115829
-#EXTINF:-1,PAN-Claro sport Panama (L)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/125194
-#EXTINF:-1,PAN-H.Vison (M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3259
-#EXTINF:-1,PAN-hossana vision(M)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/1261
-#EXTINF:-1,PAN-Mas TV 23 (M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3255
-#EXTINF:-1,PAN-Next TV 21 (M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3254
-#EXTINF:-1,PAN-RPC 4 (M)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3256
-#EXTINF:-1,PAN-RPC 4(M)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/1266
-#EXTINF:-1,PAN-RPC TV (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/154201
-#EXTINF:-1,PAN-Ser TV Canal 11 (M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3260
-#EXTINF:-1,PAN-Ser TV (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/154202
-#EXTINF:-1,PAN-Sertv canal 11 (M)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/1263
-#EXTINF:-1,PAN-Telemetro (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/154203
-#EXTINF:-1,PAN-Telemetro 13 (M)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/1265
-#EXTINF:-1,PAN-Telemetro 13 (M)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3258
-#EXTINF:-1,PAN-Tigo Sports Panama (M)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/181195
-#EXTINF:-1,PAN-Tigo Sports Panama (M)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/181196
-#EXTINF:-1,PAN-TV MAX 9 (M)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3261
-#EXTINF:-1,PAN-tv Max 9 (M)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/1264
-#EXTINF:-1,PAN-TVN (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/154205
-#EXTINF:-1,PAN-TVN Canal 2 (M)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3257
-#EXTINF:-1,PAN-TVN Canal 2 (T)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/118417
-#EXTINF:-1,PAR-C9N (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/60120
-#EXTINF:-1,PAR-Noticias PY (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/60125
-#EXTINF:-1,PAR-Noticias PY(M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/1249
-#EXTINF:-1,PAR-Paraguay TV (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/60126
-#EXTINF:-1,PAR-Paraguay TV (M)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/1248
-#EXTINF:-1,PAR-Paravision (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/60127
-#EXTINF:-1,PAR-RPC (M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/1229
-#EXTINF:-1,PAR-RPC (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/60129
-#EXTINF:-1,PAR-Telefuturo (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/60130
-#EXTINF:-1,PAR-Tigo Sport PY (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3753
-#EXTINF:-1,PAR-Tigo Sport Plus (X)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/1230
-#EXTINF:-1,PAR-Tigo Sports (M)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/60132
-#EXTINF:-1,PAR-Unicanal (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/60134
-#EXTINF:-1,•●★--DEPORTES PERU--★●•
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/60144
-#EXTINF:-1,PER PPV 1 - (e)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/358820
-#EXTINF:-1,PER-Liga 1 MAX (L)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/166149
-#EXTINF:-1,PER-Liga 1 Max (L)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/309415
-#EXTINF:-1,PER-Liga 1 MAX (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/166151
-#EXTINF:-1,PER-Liga 1 MAX (Z)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/166152
-#EXTINF:-1,PER-Liga 1 MAX (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/166150
-#EXTINF:-1,PER-Liga 1 (L)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/166147
-#EXTINF:-1,PER-Liga 1 (L)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/309416
-#EXTINF:-1,PER-GOL Peru (L)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/309417
-#EXTINF:-1,PER-Gol Peru (T)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/107213
-#EXTINF:-1,PER-Gol Peru (TV)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/5277
-#EXTINF:-1,PER-Gol Peru (Z)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153587
-#EXTINF:-1,PER-Movistar Deportes (L)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/59863
-#EXTINF:-1,PER-Movistar Deportes (T)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/59865
-#EXTINF:-1,PER-America (L)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153834
-#EXTINF:-1,PER-America tv (M)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/5275
-#EXTINF:-1,PER-America TV (Z)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/59859
-#EXTINF:-1,PER-ATV (L)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153836
-#EXTINF:-1,PER-ATV (M)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/5276
-#EXTINF:-1,PER-ATV (T)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/22169
-#EXTINF:-1,PER-ATV (Z)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/107215
-#EXTINF:-1,PER-ATV+ (L)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153837
-#EXTINF:-1,PER-ATV+ (Z)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153590
-#EXTINF:-1,PER-Canal N (T)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/31437
-#EXTINF:-1,PER-Canal N (Z)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/59860
-#EXTINF:-1,PER-Capital TV (SD)(M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/31436
-#EXTINF:-1,PER-Exitosa (Z)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153592
-#EXTINF:-1,PER-GOL Peru (L)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153835
-#EXTINF:-1,PER-Latina (L)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153838
-#EXTINF:-1,PER-Latina (M)(HQ)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/22165
-#EXTINF:-1,PER-Latina (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/107214
-#EXTINF:-1,PER-Latina (Z)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153589
-#EXTINF:-1,PER-Latina TV (M)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/107209
-#EXTINF:-1,PER-Movistar Plus (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/309419
-#EXTINF:-1,PER-Movistar Plus TV (M)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/107217
-#EXTINF:-1,PER-Panamericana (Z)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153840
-#EXTINF:-1,PER-Panamericana (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/107207
-#EXTINF:-1,PER-Peru Magico (M)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/22163
-#EXTINF:-1,PER-Peru Magico (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/59875
-#EXTINF:-1,PER-RPP (SD)(M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/31438
-#EXTINF:-1,PER-RPP (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/59876
-#EXTINF:-1,PER-TV Peru (M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/22172
-#EXTINF:-1,PER-Willas  (TV)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/59873
-#EXTINF:-1,PER-Willasx (Z)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/116085
-#EXTINF:-1,PER-Willax (L)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153844
-#EXTINF:-1,PER-Willax (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/107220
-#EXTINF:-1,PR-Mega TV (L)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153313
-#EXTINF:-1,PR-Punto 2 (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153314
-#EXTINF:-1,PR-Telemicro (M)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3268
-#EXTINF:-1,PR-Telemundo Puerto Rico (L)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/107184
-#EXTINF:-1,PR-Telemundo Puerto Rico (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153316
-#EXTINF:-1,PR-Univision (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/1225
-#EXTINF:-1,PR-Univision Puerto Rico (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3267
-#EXTINF:-1,PR-Univision Puerto Rico (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/107185
-#EXTINF:-1,PR-Wapa (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3265
-#EXTINF:-1,PR-Wapa (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/107186
-#EXTINF:-1,PR-Wapa (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153320
-#EXTINF:-1,PR-Wapa America (M)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3266
-#EXTINF:-1,PR-Wapa America (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153315
-#EXTINF:-1,PR-Wapa Deportes (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/154270
-#EXTINF:-1,RPD-5 Telemicro HD (M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3659
-#EXTINF:-1,RPD-Antena Latina (M)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3642
-#EXTINF:-1,RPD-CDN (M)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3655
-#EXTINF:-1,RPD-CDN 2 (M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3643
-#EXTINF:-1,RPD-CDN 37 (M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3660
-#EXTINF:-1,RPD-CDN Sport MAX (M)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/35792
-#EXTINF:-1,RPD-Color Vision (M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3644
-#EXTINF:-1,RPD-Color Vision (M)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3656
-#EXTINF:-1,RPD-Digital 15 (M)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3657
-#EXTINF:-1,RPD-Telecentro (M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3647
-#EXTINF:-1,RPD-Telefuturo (M)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3653
-#EXTINF:-1,RPD-Telemicro (M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3648
-#EXTINF:-1,RPD-Telesistema HD (M)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3658
-#EXTINF:-1,RPD-Teleuniverso (M)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3651
-#EXTINF:-1,RPD-Television Dominicana (M)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3646
-#EXTINF:-1,SAL- TVES Canal 10 (720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/67443
-#EXTINF:-1,SAL-Canal 12 (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153902
-#EXTINF:-1,SAL-Canal 12 (M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3738
-#EXTINF:-1,SAL-Canal 19 (M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3742
-#EXTINF:-1,SAL-Canal 2 (M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3739
-#EXTINF:-1,SAL-Canal 21 (M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3741
-#EXTINF:-1,SAL-Canal 4 (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153901
-#EXTINF:-1,SAL-Canal 4 (M)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/69545
-#EXTINF:-1,SAL-Canal 4 (M)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3743
-#EXTINF:-1,SAL-Canal 6 (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153898
-#EXTINF:-1,SAL-Canal 6 (M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3740
-#EXTINF:-1,SAL-Megavision Canal 19 (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153903
-#EXTINF:-1,SAL-Tabernaculo
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/23377
-#EXTINF:-1,SAL-Tigo Sports (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153899
-#EXTINF:-1,SAL-VTV Canal 35 (M)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/3744
-#EXTINF:-1,▂ ▄ ▅ ▆  DEPORTES U.Y. ▆ ▅ ▄ ▂
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/66029
-#EXTINF:-1,URU PPV 1 (SOLO EVENTOS)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/396484
-#EXTINF:-1,URU - Gol TV URU (M)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/120872
-#EXTINF:-1,URU-VTV Plus (L)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/309420
-#EXTINF:-1,URU-VTV Plus (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/166059
-#EXTINF:-1,URU-VTV Plus (M)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/2086
-#EXTINF:-1,URU-VTV Plus (TV)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153312
-#EXTINF:-1,URU-VTV Plus (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/59844
-#EXTINF:-1,URU-Directv Sports 1 UY (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/352477
-#EXTINF:-1,URU-VTV (T)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/166056
-#EXTINF:-1,URU-VTV (M)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/166057
-#EXTINF:-1,URU-VTV (L)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/309422
-#EXTINF:-1,URU-VTV (M)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/5273
-#EXTINF:-1,URU-VTV (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/105830
-#EXTINF:-1,URU-Canal 4 Monte Carlo (L)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153849
-#EXTINF:-1,URU-Canal 4 (TV)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/166063
-#EXTINF:-1,URU-Canal 4 Montecarlo (Z)(LQ)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/166062
-#EXTINF:-1,URU-Canal 4 Montecarlo (T)(HQ)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/166061
-#EXTINF:-1,URU-Canal 10 (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/166069
-#EXTINF:-1,URU-Canal 10 (M)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/22178
-#EXTINF:-1,URU-Canal 10 (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/105833
-#EXTINF:-1,URU-Canal 10 HD (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/59826
-#EXTINF:-1,URU-Canal 10 (L)(HQ)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/166068
-#EXTINF:-1,URU-Canal 12 (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/166073
-#EXTINF:-1,URU-Canal 12 La Tele (L)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/166071
-#EXTINF:-1,URU-Canal 12 La Tele (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/22173
-#EXTINF:-1,URU-Canal 12 La Tele (Z)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/59828
-#EXTINF:-1,URU-Canal 12 La Tele (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/105832
-#EXTINF:-1,URU-A+V (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/166074
-#EXTINF:-1,URU-La Red Uruguay (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/59830
-#EXTINF:-1,URU-Canal 4 - Montecarlo (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/59835
-#EXTINF:-1,URU-TNU (M)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/22175
-#EXTINF:-1,VEN- Fox Sports Venezuela (W)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/107206
-#EXTINF:-1,URU-TV Ciudad (TV)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/166076
-#EXTINF:-1,VEN-CANAL I (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153993
-#EXTINF:-1,VEN-Globavision (Z)(SD)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153986
-#EXTINF:-1,VEN-Globovision (Z)(HQ)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/107198
-#EXTINF:-1,VEN-Hispantv (X)(HQ)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153994
-#EXTINF:-1,VEN-IVC (W)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153996
-#EXTINF:-1,VEN-Panavision (X)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153992
-#EXTINF:-1,VEN-Telesur (M)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/107203
-#EXTINF:-1,VEN-Telesur (Z)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153983
-#EXTINF:-1,VEN-TLT (M)(HQ)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/107202
-#EXTINF:-1,VEN-TLT (Z)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153989
-#EXTINF:-1,VEN-Tves (M)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/107205
-#EXTINF:-1,VEN-Venevision (W)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153981
-#EXTINF:-1,VEN-Venevision Plus (Z)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/153982
-#EXTINF:-1,PR-Telemundo (T)(1080)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/1228
-#EXTINF:-1,MEX-Azteca Uno (T)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/1881
-#EXTINF:-1,MEX- 15TV (W)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/355555
-#EXTINF:-1,Agenda Al Día TV (W)(720)
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/356946
+
+#EXTINF:-1,PRINCIPAL
+http://clubtv.link/N151124n/phpcode/lista.php?c=474&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1,@TecnotvChat
+http://clubtv.link/N151124n/phpcode/lista.php?c=474&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1,Wapp
+http://clubtv.link/N151124n/phpcode/distro.php?c=wapptv
+#EXTINF:-1,El Conflicto TV
+http://clubtv.link/N151124n/phpcode/distro.php?c=el-conflicto-tv
+#EXTINF:-1,Glewedtv Spanish
+http://clubtv.link/N151124n/phpcode/distro.php?c=glewedtv-spanish
+#EXTINF:-1,La Bocina Latina
+http://clubtv.link/N151124n/phpcode/distro.php?c=la-bocina-latina
+#EXTINF:-1,Banda
+http://clubtv.link/N151124n/phpcode/distro.php?c=freetv-banda
+#EXTINF:-1,trace Latina
+http://clubtv.link/N151124n/phpcode/distro.php?c=trace-latina
+#EXTINF:-1,FreeTV Hits
+http://clubtv.link/N151124n/phpcode/distro.php?c=freetv-hits
+#EXTINF:-1,XFT TV
+http://clubtv.link/N151124n/phpcode/distro.php?c=xfc-tv
+#EXTINF:-1,Familia
+http://clubtv.link/N151124n/phpcode/distro.php?c=freetv-familia
+#EXTINF:-1,Terror
+http://clubtv.link/N151124n/phpcode/distro.php?c=freetv-terror
+#EXTINF:-1,Drama
+http://clubtv.link/N151124n/phpcode/distro.php?c=freetv-drama-latam
+#EXTINF:-1,Accion
+http://clubtv.link/N151124n/phpcode/distro.php?c=freetv-accion-latam
+#EXTINF:-1,Estelar
+http://clubtv.link/N151124n/phpcode/distro.php?c=freetv-estelar-latam
+#EXTINF:-1,Zaz
+http://clubtv.link/N151124n/phpcode/distro.php?c=zaz
+#EXTINF:-1,TV kids
+http://clubtv.link/N151124n/phpcode/distro.php?c=kids-tv-espano
+#EXTINF:-1,Pitufo TV
+http://clubtv.link/N151124n/phpcode/distro.php?c=pitufo-tv
+#EXTINF:-1, A&E
+http://clubtv.link/N151124n/phpcode/lista.php?c=474&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, A+
+http://clubtv.link/N151124n/phpcode/lista.php?c=406&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, A+
+http://clubtv.link/N151124n/phpcode/lista.php?c=1541&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, A3Cine
+http://clubtv.link/N151124n/phpcode/lista.php?c=945&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, A3Cine
+http://clubtv.link/N151124n/phpcode/lista.php?c=444&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, A3Series
+http://clubtv.link/N151124n/phpcode/lista.php?c=447&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, ADN 40
+http://clubtv.link/N151124n/phpcode/lista.php?c=1542&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Al Jazeera
+http://clubtv.link/N151124n/phpcode/lista.php?c=668&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Al Jazeera
+http://clubtv.link/N151124n/phpcode/lista.php?c=426&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, AMC
+http://clubtv.link/N151124n/phpcode/lista.php?c=183&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, AMC (ES)
+http://clubtv.link/N151124n/phpcode/lista.php?c=981&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, AMC ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=475&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, America TV
+http://clubtv.link/N151124n/phpcode/lista.php?c=780&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, America TV
+http://clubtv.link/N151124n/phpcode/lista.php?c=3&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Animal Planet ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=633&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Antena 3
+http://clubtv.link/N151124n/phpcode/lista.php?c=298&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Antena 3
+http://clubtv.link/N151124n/phpcode/lista.php?c=146&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, AXN
+http://clubtv.link/N151124n/phpcode/lista.php?c=804&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, AXN ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=476&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, AXN ᵸᴰ (ES)
+http://clubtv.link/N151124n/phpcode/lista.php?c=713&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, AXN Mx
+http://clubtv.link/N151124n/phpcode/lista.php?c=714&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, AyM Sports
+http://clubtv.link/N151124n/phpcode/lista.php?c=148&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Az Cinema
+http://clubtv.link/N151124n/phpcode/lista.php?c=186&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Az Clic
+http://clubtv.link/N151124n/phpcode/lista.php?c=165&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, AZ Corazon
+http://clubtv.link/N151124n/phpcode/lista.php?c=166&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Az Corazon
+http://clubtv.link/N151124n/phpcode/lista.php?c=834&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Az Mundo
+http://clubtv.link/N151124n/phpcode/lista.php?c=5&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Azteca 7
+http://clubtv.link/N151124n/phpcode/lista.php?c=529&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Azteca 7 ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=635&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Azteca Uno
+http://clubtv.link/N151124n/phpcode/lista.php?c=4&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Azteca Uno
+http://clubtv.link/N151124n/phpcode/lista.php?c=414&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Azteca Uno ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=634&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Baby TV
+http://clubtv.link/N151124n/phpcode/lista.php?c=7&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Baby Tv
+http://clubtv.link/N151124n/phpcode/lista.php?c=8&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Bandamax ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=833&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, BBC ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=931&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, BeinSports
+http://clubtv.link/N151124n/phpcode/lista.php?c=753&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, BeinSports ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=9&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, BeinSports \u00D1
+http://clubtv.link/N151124n/phpcode/lista.php?c=761&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, BeinSports \u00D1 ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=376&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, BitMe
+http://clubtv.link/N151124n/phpcode/lista.php?c=946&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Bloomberg
+http://clubtv.link/N151124n/phpcode/lista.php?c=518&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Bolivision
+http://clubtv.link/N151124n/phpcode/lista.php?c=783&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, C5N
+http://clubtv.link/N151124n/phpcode/lista.php?c=427&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cable Noticias
+http://clubtv.link/N151124n/phpcode/lista.php?c=1566&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Canal 5
+http://clubtv.link/N151124n/phpcode/lista.php?c=14&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Canal 5 ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=941&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Canal 5 Honduras
+http://clubtv.link/N151124n/phpcode/lista.php?c=773&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Canal a
+http://clubtv.link/N151124n/phpcode/lista.php?c=962&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Canal de las Estrellas
+http://clubtv.link/N151124n/phpcode/lista.php?c=411&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Canal de las Estrellas
+http://clubtv.link/N151124n/phpcode/lista.php?c=736&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Canal de las Estrellas ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=636&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Canal Once
+http://clubtv.link/N151124n/phpcode/lista.php?c=15&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Canal Uno (Colombia)
+http://clubtv.link/N151124n/phpcode/lista.php?c=369&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Caracol
+http://clubtv.link/N151124n/phpcode/lista.php?c=391&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Caracol
+http://clubtv.link/N151124n/phpcode/lista.php?c=290&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cartoon Network
+http://clubtv.link/N151124n/phpcode/lista.php?c=17&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cartoon Network
+http://clubtv.link/N151124n/phpcode/lista.php?c=737&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cartoon Network ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=637&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cartoonito
+http://clubtv.link/N151124n/phpcode/lista.php?c=11&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cartoonito
+http://clubtv.link/N151124n/phpcode/lista.php?c=824&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, CBeebies
+http://clubtv.link/N151124n/phpcode/lista.php?c=13&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, CBS ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=932&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, CCTV-4
+http://clubtv.link/N151124n/phpcode/lista.php?c=318&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, CDF Premium ᵸᴰ (TNT Sports Chile)
+http://clubtv.link/N151124n/phpcode/lista.php?c=725&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cdn (Republica Dominicana)
+http://clubtv.link/N151124n/phpcode/lista.php?c=206&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, CDO
+http://clubtv.link/N151124n/phpcode/lista.php?c=513&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, CDO
+http://clubtv.link/N151124n/phpcode/lista.php?c=401&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Certv-Canal 4 (Republica Dominicana)
+http://clubtv.link/N151124n/phpcode/lista.php?c=418&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, CHV Chilevision
+http://clubtv.link/N151124n/phpcode/lista.php?c=198&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, CHV Chilevision
+http://clubtv.link/N151124n/phpcode/lista.php?c=990&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cine Accion ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=1022&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cine Accion Sagas
+http://clubtv.link/N151124n/phpcode/lista.php?c=700&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cine Accion Sagas ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=707&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cine Comedia
+http://clubtv.link/N151124n/phpcode/lista.php?c=695&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cine Comedia 2
+http://clubtv.link/N151124n/phpcode/lista.php?c=696&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cine Comedia 2 ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=915&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cine Ficcion/Fantasia
+http://clubtv.link/N151124n/phpcode/lista.php?c=709&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cine Ficcion/Fantasia 2
+http://clubtv.link/N151124n/phpcode/lista.php?c=710&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cine Ficcion/Fantasia ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=712&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cine Infantil ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=702&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cine Infantil Sagas
+http://clubtv.link/N151124n/phpcode/lista.php?c=694&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cine Infantil Sagas ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=703&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cine Latino
+http://clubtv.link/N151124n/phpcode/lista.php?c=295&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cine Latino
+http://clubtv.link/N151124n/phpcode/lista.php?c=697&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cine Marvel ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=701&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cine Romance
+http://clubtv.link/N151124n/phpcode/lista.php?c=689&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cine Romance 2 ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=1023&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cine Romance ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=705&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cine Terror
+http://clubtv.link/N151124n/phpcode/lista.php?c=693&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cine Terror 2 ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=913&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cine Terror ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=704&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cine Terror Sagas ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=1550&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cine Zombis
+http://clubtv.link/N151124n/phpcode/lista.php?c=688&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cine Zombis ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=917&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cinecanal
+http://clubtv.link/N151124n/phpcode/lista.php?c=18&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cinecanal Sur
+http://clubtv.link/N151124n/phpcode/lista.php?c=738&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cinecanal ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=479&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, CinemaPlus
+http://clubtv.link/N151124n/phpcode/lista.php?c=20&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cinemax
+http://clubtv.link/N151124n/phpcode/lista.php?c=739&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cinemax ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=638&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cinemax ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=328&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Claro Sports Colombia
+http://clubtv.link/N151124n/phpcode/lista.php?c=135&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Comedy Central
+http://clubtv.link/N151124n/phpcode/lista.php?c=740&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Comedy Central (ES)
+http://clubtv.link/N151124n/phpcode/lista.php?c=719&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Comedy Central ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=480&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Concert Channel
+http://clubtv.link/N151124n/phpcode/lista.php?c=519&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cosmovision (Colombia)
+http://clubtv.link/N151124n/phpcode/lista.php?c=720&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cristovision
+http://clubtv.link/N151124n/phpcode/lista.php?c=908&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, DataFx (Colombia)
+http://clubtv.link/N151124n/phpcode/lista.php?c=21&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, De Pelicula
+http://clubtv.link/N151124n/phpcode/lista.php?c=1545&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, De Pelicula ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=481&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, De Pelicula Plus ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=1544&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, DeporTV
+http://clubtv.link/N151124n/phpcode/lista.php?c=844&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, DHE
+http://clubtv.link/N151124n/phpcode/lista.php?c=670&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Discovery Channel
+http://clubtv.link/N151124n/phpcode/lista.php?c=22&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Discovery Channel Sur
+http://clubtv.link/N151124n/phpcode/lista.php?c=741&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Discovery Channel ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=639&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Discovery Civilization
+http://clubtv.link/N151124n/phpcode/lista.php?c=23&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Discovery H&H
+http://clubtv.link/N151124n/phpcode/lista.php?c=24&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Discovery H&H
+http://clubtv.link/N151124n/phpcode/lista.php?c=742&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Discovery H&H ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=640&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Discovery Kids
+http://clubtv.link/N151124n/phpcode/lista.php?c=25&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Discovery Kids
+http://clubtv.link/N151124n/phpcode/lista.php?c=641&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Discovery SCI
+http://clubtv.link/N151124n/phpcode/lista.php?c=26&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Discovery SCI
+http://clubtv.link/N151124n/phpcode/lista.php?c=27&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Discovery Turbo
+http://clubtv.link/N151124n/phpcode/lista.php?c=28&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Discovery Turbo
+http://clubtv.link/N151124n/phpcode/lista.php?c=727&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Discovery World
+http://clubtv.link/N151124n/phpcode/lista.php?c=187&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Discovery World
+http://clubtv.link/N151124n/phpcode/lista.php?c=29&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Disney Channel
+http://clubtv.link/N151124n/phpcode/lista.php?c=30&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Disney Junior
+http://clubtv.link/N151124n/phpcode/lista.php?c=743&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Disney Junior ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=826&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Disney XD
+http://clubtv.link/N151124n/phpcode/lista.php?c=31&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Disney XD Sur
+http://clubtv.link/N151124n/phpcode/lista.php?c=744&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Disney XD ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=827&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Distrito Comedia
+http://clubtv.link/N151124n/phpcode/lista.php?c=32&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Djing Ibiza
+http://clubtv.link/N151124n/phpcode/lista.php?c=277&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, DMax ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=923&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, DSports
+http://clubtv.link/N151124n/phpcode/lista.php?c=259&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, DSports +
+http://clubtv.link/N151124n/phpcode/lista.php?c=935&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, DSports 2
+http://clubtv.link/N151124n/phpcode/lista.php?c=667&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, DSports 2 ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=975&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, DSports 2 Sur ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=978&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, DSports Colombia
+http://clubtv.link/N151124n/phpcode/lista.php?c=974&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, DTVNEWS
+http://clubtv.link/N151124n/phpcode/lista.php?c=1582&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Dw
+http://clubtv.link/N151124n/phpcode/lista.php?c=33&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, E!
+http://clubtv.link/N151124n/phpcode/lista.php?c=483&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Ecuavisa
+http://clubtv.link/N151124n/phpcode/lista.php?c=319&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, El 13 Argentina
+http://clubtv.link/N151124n/phpcode/lista.php?c=239&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, El Canal Del Futbol
+http://clubtv.link/N151124n/phpcode/lista.php?c=892&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, El Gourmet
+http://clubtv.link/N151124n/phpcode/lista.php?c=157&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, El Gourmet
+http://clubtv.link/N151124n/phpcode/lista.php?c=791&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, El Nueve
+http://clubtv.link/N151124n/phpcode/lista.php?c=772&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, El Nueve Argentina
+http://clubtv.link/N151124n/phpcode/lista.php?c=525&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, El Trece
+http://clubtv.link/N151124n/phpcode/lista.php?c=765&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, El Trece
+http://clubtv.link/N151124n/phpcode/lista.php?c=767&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, El Trece
+http://clubtv.link/N151124n/phpcode/lista.php?c=1578&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Encuentro
+http://clubtv.link/N151124n/phpcode/lista.php?c=34&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, ESPN 2
+http://clubtv.link/N151124n/phpcode/lista.php?c=35&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, ESPN 2 ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=484&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, ESPN 2 ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=531&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, ESPN 2 Mx ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=485&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, ESPN 3 ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=486&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, ESPN ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=530&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, ESPN MX ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=37&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, ESPN Plus ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=487&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, ESPN Premium ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=952&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Estrella TV
+http://clubtv.link/N151124n/phpcode/lista.php?c=177&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Europa Europa
+http://clubtv.link/N151124n/phpcode/lista.php?c=957&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Fetv (Panama)
+http://clubtv.link/N151124n/phpcode/lista.php?c=149&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Film & Arts ᵸᴰ (EN)
+http://clubtv.link/N151124n/phpcode/lista.php?c=729&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, FM Hot TV
+http://clubtv.link/N151124n/phpcode/lista.php?c=961&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Food Network
+http://clubtv.link/N151124n/phpcode/lista.php?c=192&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Foro TV
+http://clubtv.link/N151124n/phpcode/lista.php?c=1543&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Fox (ES) ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=926&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Fox Life Sur
+http://clubtv.link/N151124n/phpcode/lista.php?c=746&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Fox News
+http://clubtv.link/N151124n/phpcode/lista.php?c=960&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Fox News
+http://clubtv.link/N151124n/phpcode/lista.php?c=52&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Fox Sports 2
+http://clubtv.link/N151124n/phpcode/lista.php?c=53&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Fox Sports 2 Argentina ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=770&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Fox Sports 2 ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=494&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Fox Sports 2 MX
+http://clubtv.link/N151124n/phpcode/lista.php?c=528&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Fox Sports 2 MX
+http://clubtv.link/N151124n/phpcode/lista.php?c=839&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Fox Sports 3 MX
+http://clubtv.link/N151124n/phpcode/lista.php?c=54&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Fox Sports 3 Mx
+http://clubtv.link/N151124n/phpcode/lista.php?c=769&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Fox Sports ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=493&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Fox Sports MX
+http://clubtv.link/N151124n/phpcode/lista.php?c=527&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Fox Sports MX
+http://clubtv.link/N151124n/phpcode/lista.php?c=748&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Fox Sports Premium
+http://clubtv.link/N151124n/phpcode/lista.php?c=512&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Fox Sports Premium ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=658&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Fox Sports Sur
+http://clubtv.link/N151124n/phpcode/lista.php?c=402&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Fox Sports Sur 2
+http://clubtv.link/N151124n/phpcode/lista.php?c=410&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Fox Sports Sur 3
+http://clubtv.link/N151124n/phpcode/lista.php?c=511&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, France24
+http://clubtv.link/N151124n/phpcode/lista.php?c=1577&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, FS1 USA ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=936&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, FS2 USA ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=937&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, FX
+http://clubtv.link/N151124n/phpcode/lista.php?c=42&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, FX Sur
+http://clubtv.link/N151124n/phpcode/lista.php?c=749&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, FX ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=495&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, FXM
+http://clubtv.link/N151124n/phpcode/lista.php?c=43&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, FXM ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=488&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Gala TV
+http://clubtv.link/N151124n/phpcode/lista.php?c=56&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Gala TV ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=651&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Gamavision
+http://clubtv.link/N151124n/phpcode/lista.php?c=891&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Garage TV ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=812&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Glitz
+http://clubtv.link/N151124n/phpcode/lista.php?c=158&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Glitz
+http://clubtv.link/N151124n/phpcode/lista.php?c=686&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Gol TV
+http://clubtv.link/N151124n/phpcode/lista.php?c=287&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Gol TV ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=514&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Golden
+http://clubtv.link/N151124n/phpcode/lista.php?c=57&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Golden
+http://clubtv.link/N151124n/phpcode/lista.php?c=58&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Golden ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=496&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Golden Premier 2
+http://clubtv.link/N151124n/phpcode/lista.php?c=964&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, H2
+http://clubtv.link/N151124n/phpcode/lista.php?c=61&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, H2
+http://clubtv.link/N151124n/phpcode/lista.php?c=760&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, HBO
+http://clubtv.link/N151124n/phpcode/lista.php?c=62&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, HBO 2
+http://clubtv.link/N151124n/phpcode/lista.php?c=300&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, HBO 2 ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=732&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, HBO 2 ᵸᴰ (EN)
+http://clubtv.link/N151124n/phpcode/lista.php?c=733&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, HBO 2 MX
+http://clubtv.link/N151124n/phpcode/lista.php?c=63&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, HBO Family
+http://clubtv.link/N151124n/phpcode/lista.php?c=968&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, HBO ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=654&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, HBO Mundi
+http://clubtv.link/N151124n/phpcode/lista.php?c=64&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, HBO Plus
+http://clubtv.link/N151124n/phpcode/lista.php?c=655&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, HBO Plus MX
+http://clubtv.link/N151124n/phpcode/lista.php?c=728&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, HBO Pop
+http://clubtv.link/N151124n/phpcode/lista.php?c=977&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, HBO Pop
+http://clubtv.link/N151124n/phpcode/lista.php?c=814&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, HBO Xtreme
+http://clubtv.link/N151124n/phpcode/lista.php?c=971&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, HBO Xtreme MX
+http://clubtv.link/N151124n/phpcode/lista.php?c=779&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Headlinews
+http://clubtv.link/N151124n/phpcode/lista.php?c=1576&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Historia (ES)
+http://clubtv.link/N151124n/phpcode/lista.php?c=718&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, History Channel
+http://clubtv.link/N151124n/phpcode/lista.php?c=67&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, History Channel
+http://clubtv.link/N151124n/phpcode/lista.php?c=642&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Hit TV
+http://clubtv.link/N151124n/phpcode/lista.php?c=201&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Hola TV
+http://clubtv.link/N151124n/phpcode/lista.php?c=189&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Hola TV
+http://clubtv.link/N151124n/phpcode/lista.php?c=66&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, HTV
+http://clubtv.link/N151124n/phpcode/lista.php?c=153&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, I.Sat
+http://clubtv.link/N151124n/phpcode/lista.php?c=341&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Imagen Televisi\u00F3n ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=643&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Investigation Discovery
+http://clubtv.link/N151124n/phpcode/lista.php?c=68&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Investigation Discovery ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=825&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Ivc
+http://clubtv.link/N151124n/phpcode/lista.php?c=786&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, La 1 ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=927&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, La 2 ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=967&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, La Nacion +
+http://clubtv.link/N151124n/phpcode/lista.php?c=671&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, La red
+http://clubtv.link/N151124n/phpcode/lista.php?c=1559&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, La Sexta ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=928&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, La Tele
+http://clubtv.link/N151124n/phpcode/lista.php?c=809&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Latina
+http://clubtv.link/N151124n/phpcode/lista.php?c=782&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Latina
+http://clubtv.link/N151124n/phpcode/lista.php?c=888&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Lifetime
+http://clubtv.link/N151124n/phpcode/lista.php?c=152&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Lifetime
+http://clubtv.link/N151124n/phpcode/lista.php?c=890&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Max Up ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=659&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Mega
+http://clubtv.link/N151124n/phpcode/lista.php?c=766&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Mega
+http://clubtv.link/N151124n/phpcode/lista.php?c=784&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Mega
+http://clubtv.link/N151124n/phpcode/lista.php?c=929&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Miami TV
+http://clubtv.link/N151124n/phpcode/lista.php?c=251&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Milenio ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=140&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Milenio ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=293&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Morbido TV
+http://clubtv.link/N151124n/phpcode/lista.php?c=966&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Movie Max
+http://clubtv.link/N151124n/phpcode/lista.php?c=678&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Movistar Accion ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=364&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Movistar Cine
+http://clubtv.link/N151124n/phpcode/lista.php?c=371&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Movistar Comedia
+http://clubtv.link/N151124n/phpcode/lista.php?c=370&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Movistar Deportes 2 ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=367&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Movistar Deportes ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=925&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Movistar Deportes Sur
+http://clubtv.link/N151124n/phpcode/lista.php?c=366&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Movistar Estrenos ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=976&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Movistar LaLiga ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=916&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Movistar Series ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=924&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, MTV
+http://clubtv.link/N151124n/phpcode/lista.php?c=69&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, MTV
+http://clubtv.link/N151124n/phpcode/lista.php?c=803&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, MTV 00s
+http://clubtv.link/N151124n/phpcode/lista.php?c=953&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, MTV 00s
+http://clubtv.link/N151124n/phpcode/lista.php?c=955&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, MTV ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=828&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, MTV Hits
+http://clubtv.link/N151124n/phpcode/lista.php?c=70&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, MTV Live
+http://clubtv.link/N151124n/phpcode/lista.php?c=823&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, MTV WW
+http://clubtv.link/N151124n/phpcode/lista.php?c=954&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Much Music
+http://clubtv.link/N151124n/phpcode/lista.php?c=950&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Multimedios
+http://clubtv.link/N151124n/phpcode/lista.php?c=155&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Multimedios (Monterrey)
+http://clubtv.link/N151124n/phpcode/lista.php?c=979&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Multimedios (Monterrey) ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=980&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Multimedios ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=943&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Multimedios Plus
+http://clubtv.link/N151124n/phpcode/lista.php?c=325&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, MultiPremier
+http://clubtv.link/N151124n/phpcode/lista.php?c=294&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, MultiPremier
+http://clubtv.link/N151124n/phpcode/lista.php?c=690&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Music Top
+http://clubtv.link/N151124n/phpcode/lista.php?c=691&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, MVS Noticias
+http://clubtv.link/N151124n/phpcode/lista.php?c=448&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Nat Geo
+http://clubtv.link/N151124n/phpcode/lista.php?c=76&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Nat Geo
+http://clubtv.link/N151124n/phpcode/lista.php?c=644&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Nat Geo Kids
+http://clubtv.link/N151124n/phpcode/lista.php?c=412&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Nat Geo Wild
+http://clubtv.link/N151124n/phpcode/lista.php?c=77&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Nat Geo Wild ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=497&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, NBA
+http://clubtv.link/N151124n/phpcode/lista.php?c=838&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, NBC Golf
+http://clubtv.link/N151124n/phpcode/lista.php?c=947&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, NBC ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=933&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, NBC Universo
+http://clubtv.link/N151124n/phpcode/lista.php?c=1537&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, NCN
+http://clubtv.link/N151124n/phpcode/lista.php?c=1561&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Neox (ES)
+http://clubtv.link/N151124n/phpcode/lista.php?c=353&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, NextTV (Panama)
+http://clubtv.link/N151124n/phpcode/lista.php?c=204&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, NHK World News
+http://clubtv.link/N151124n/phpcode/lista.php?c=1535&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Nick
+http://clubtv.link/N151124n/phpcode/lista.php?c=78&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Nick 2
+http://clubtv.link/N151124n/phpcode/lista.php?c=646&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Nick ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=645&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Nick ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=79&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Nick JR
+http://clubtv.link/N151124n/phpcode/lista.php?c=829&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Nick Toons
+http://clubtv.link/N151124n/phpcode/lista.php?c=80&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Nick Toons
+http://clubtv.link/N151124n/phpcode/lista.php?c=184&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Nickelodeon
+http://clubtv.link/N151124n/phpcode/lista.php?c=1586&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Nova (ES)
+http://clubtv.link/N151124n/phpcode/lista.php?c=717&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, PAC12 ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=934&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, PakaPaka
+http://clubtv.link/N151124n/phpcode/lista.php?c=959&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Paramount
+http://clubtv.link/N151124n/phpcode/lista.php?c=200&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Paramount
+http://clubtv.link/N151124n/phpcode/lista.php?c=647&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Paramount ᵸᴰ (ES)
+http://clubtv.link/N151124n/phpcode/lista.php?c=970&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pasiones
+http://clubtv.link/N151124n/phpcode/lista.php?c=755&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, PERU: Am\u00E9rica TV
+http://clubtv.link/N151124n/phpcode/lista.php?c=304&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, PERU: Antares TV
+http://clubtv.link/N151124n/phpcode/lista.php?c=451&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, PERU: BHTV
+http://clubtv.link/N151124n/phpcode/lista.php?c=399&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, PERU: Latina
+http://clubtv.link/N151124n/phpcode/lista.php?c=317&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, PERU: RBC
+http://clubtv.link/N151124n/phpcode/lista.php?c=220&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, PERU: RPP
+http://clubtv.link/N151124n/phpcode/lista.php?c=336&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, PERU: TV Peru
+http://clubtv.link/N151124n/phpcode/lista.php?c=306&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, PopCornFlix ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=1536&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, PX TV
+http://clubtv.link/N151124n/phpcode/lista.php?c=193&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Quiero Musica
+http://clubtv.link/N151124n/phpcode/lista.php?c=958&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Rai
+http://clubtv.link/N151124n/phpcode/lista.php?c=419&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, RCN
+http://clubtv.link/N151124n/phpcode/lista.php?c=390&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, RCN
+http://clubtv.link/N151124n/phpcode/lista.php?c=279&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Rcn Novelas
+http://clubtv.link/N151124n/phpcode/lista.php?c=692&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Ritmoson Latino
+http://clubtv.link/N151124n/phpcode/lista.php?c=154&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Rpc (Panama)
+http://clubtv.link/N151124n/phpcode/lista.php?c=781&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Senal Colombia
+http://clubtv.link/N151124n/phpcode/lista.php?c=918&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, SerTv (Panama)
+http://clubtv.link/N151124n/phpcode/lista.php?c=989&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, SKY Sports Premier ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=900&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Sony
+http://clubtv.link/N151124n/phpcode/lista.php?c=145&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Sony
+http://clubtv.link/N151124n/phpcode/lista.php?c=498&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Space
+http://clubtv.link/N151124n/phpcode/lista.php?c=83&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Space Sur
+http://clubtv.link/N151124n/phpcode/lista.php?c=751&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Space ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=499&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Star Channel
+http://clubtv.link/N151124n/phpcode/lista.php?c=45&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Star Channel
+http://clubtv.link/N151124n/phpcode/lista.php?c=489&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Star Fun
+http://clubtv.link/N151124n/phpcode/lista.php?c=49&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Star Hits ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=491&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Star Life
+http://clubtv.link/N151124n/phpcode/lista.php?c=50&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Star Life ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=652&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, StarTVE
+http://clubtv.link/N151124n/phpcode/lista.php?c=944&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Starz Cinema
+http://clubtv.link/N151124n/phpcode/lista.php?c=680&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Starz Comedy
+http://clubtv.link/N151124n/phpcode/lista.php?c=681&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Starz Encore Action
+http://clubtv.link/N151124n/phpcode/lista.php?c=682&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Starz Encore Black
+http://clubtv.link/N151124n/phpcode/lista.php?c=683&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Starz Encore Family
+http://clubtv.link/N151124n/phpcode/lista.php?c=684&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Starz ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=685&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Studio Universal
+http://clubtv.link/N151124n/phpcode/lista.php?c=84&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Studio Universal
+http://clubtv.link/N151124n/phpcode/lista.php?c=830&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, SyFy
+http://clubtv.link/N151124n/phpcode/lista.php?c=151&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Syfy
+http://clubtv.link/N151124n/phpcode/lista.php?c=758&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, SyFy (ES) ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=969&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, SyFy ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=648&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, TBS Very Funny
+http://clubtv.link/N151124n/phpcode/lista.php?c=171&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, TBS Very Funny ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=831&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, TC Ecuador
+http://clubtv.link/N151124n/phpcode/lista.php?c=885&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, TCM
+http://clubtv.link/N151124n/phpcode/lista.php?c=85&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, TCM
+http://clubtv.link/N151124n/phpcode/lista.php?c=882&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Tele
+http://clubtv.link/N151124n/phpcode/lista.php?c=778&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, TeleAmazonas
+http://clubtv.link/N151124n/phpcode/lista.php?c=320&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Teleantioquia (Colombia)
+http://clubtv.link/N151124n/phpcode/lista.php?c=922&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Teledeporte ᵸᴰ (ES)
+http://clubtv.link/N151124n/phpcode/lista.php?c=330&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Telefe
+http://clubtv.link/N151124n/phpcode/lista.php?c=771&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Telefe
+http://clubtv.link/N151124n/phpcode/lista.php?c=182&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Telehit
+http://clubtv.link/N151124n/phpcode/lista.php?c=91&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Telehit ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=649&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Teleislas (Colombia)
+http://clubtv.link/N151124n/phpcode/lista.php?c=963&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Telemedios (Republica Dominicana)
+http://clubtv.link/N151124n/phpcode/lista.php?c=92&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Telemundo ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=660&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Telemundo Internacional
+http://clubtv.link/N151124n/phpcode/lista.php?c=676&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Tiempo tv
+http://clubtv.link/N151124n/phpcode/lista.php?c=1587&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, TigoSports Bolivia
+http://clubtv.link/N151124n/phpcode/lista.php?c=764&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, TigoSports Paraguay
+http://clubtv.link/N151124n/phpcode/lista.php?c=843&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Tiin
+http://clubtv.link/N151124n/phpcode/lista.php?c=93&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, TLC
+http://clubtv.link/N151124n/phpcode/lista.php?c=87&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Tlnovelas
+http://clubtv.link/N151124n/phpcode/lista.php?c=94&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Tlnovelas
+http://clubtv.link/N151124n/phpcode/lista.php?c=832&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, TLR (Teleritmo)
+http://clubtv.link/N151124n/phpcode/lista.php?c=299&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, TLR ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=942&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, TN
+http://clubtv.link/N151124n/phpcode/lista.php?c=179&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, TNT Sur
+http://clubtv.link/N151124n/phpcode/lista.php?c=752&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, TNT ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=500&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, TNT ᵸᴰ (ES)
+http://clubtv.link/N151124n/phpcode/lista.php?c=982&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, TNT Series
+http://clubtv.link/N151124n/phpcode/lista.php?c=90&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, TNT Series
+http://clubtv.link/N151124n/phpcode/lista.php?c=757&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, TNT Series ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=650&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, TNT Sports
+http://clubtv.link/N151124n/phpcode/lista.php?c=509&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, TNT Sports Chile
+http://clubtv.link/N151124n/phpcode/lista.php?c=906&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Tooncast
+http://clubtv.link/N151124n/phpcode/lista.php?c=95&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Tooncast
+http://clubtv.link/N151124n/phpcode/lista.php?c=774&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Tro (Colombia)
+http://clubtv.link/N151124n/phpcode/lista.php?c=662&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, TruTV
+http://clubtv.link/N151124n/phpcode/lista.php?c=96&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, TruTV
+http://clubtv.link/N151124n/phpcode/lista.php?c=501&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Tu Musica ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=516&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, TUDN 
+http://clubtv.link/N151124n/phpcode/lista.php?c=698&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, TUDN (Pocos Datos)
+http://clubtv.link/N151124n/phpcode/lista.php?c=822&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, TUDN ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=801&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, TUDN Op. 2
+http://clubtv.link/N151124n/phpcode/lista.php?c=997&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, TUDN USA ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=86&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, TV Chile
+http://clubtv.link/N151124n/phpcode/lista.php?c=1534&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Tv Galicia
+http://clubtv.link/N151124n/phpcode/lista.php?c=837&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, TVC Ecuador
+http://clubtv.link/N151124n/phpcode/lista.php?c=776&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, TVE
+http://clubtv.link/N151124n/phpcode/lista.php?c=195&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, TVE
+http://clubtv.link/N151124n/phpcode/lista.php?c=930&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, TVMAS (Panama)
+http://clubtv.link/N151124n/phpcode/lista.php?c=675&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Tyc Sports
+http://clubtv.link/N151124n/phpcode/lista.php?c=274&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Tyc Sports Op. 2
+http://clubtv.link/N151124n/phpcode/lista.php?c=1538&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, UFC Network
+http://clubtv.link/N151124n/phpcode/lista.php?c=97&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Unicable
+http://clubtv.link/N151124n/phpcode/lista.php?c=98&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Unicable ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=653&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, UniMas
+http://clubtv.link/N151124n/phpcode/lista.php?c=144&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Universal Channel
+http://clubtv.link/N151124n/phpcode/lista.php?c=137&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Universal Channel
+http://clubtv.link/N151124n/phpcode/lista.php?c=902&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Universal Comedy
+http://clubtv.link/N151124n/phpcode/lista.php?c=903&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Universal Crime Este
+http://clubtv.link/N151124n/phpcode/lista.php?c=904&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Universal Crime Oeste
+http://clubtv.link/N151124n/phpcode/lista.php?c=502&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Universal Premier Este
+http://clubtv.link/N151124n/phpcode/lista.php?c=901&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Universal Reality
+http://clubtv.link/N151124n/phpcode/lista.php?c=905&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Universal Reallity
+http://clubtv.link/N151124n/phpcode/lista.php?c=99&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Univisi\u00F3n Deportes
+http://clubtv.link/N151124n/phpcode/lista.php?c=373&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Univision In
+http://clubtv.link/N151124n/phpcode/lista.php?c=100&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Univision Tlnovelas
+http://clubtv.link/N151124n/phpcode/lista.php?c=413&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Uno
+http://clubtv.link/N151124n/phpcode/lista.php?c=775&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Vamos ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=940&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, VH1
+http://clubtv.link/N151124n/phpcode/lista.php?c=101&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, VH1 ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=632&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Video Rola
+http://clubtv.link/N151124n/phpcode/lista.php?c=359&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Videos: 1Music
+http://clubtv.link/N151124n/phpcode/lista.php?c=433&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Videos: Company Radio TV
+http://clubtv.link/N151124n/phpcode/lista.php?c=435&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Videos: Dream TV
+http://clubtv.link/N151124n/phpcode/lista.php?c=439&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Vivatv (Panama)
+http://clubtv.link/N151124n/phpcode/lista.php?c=708&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Wapa PR
+http://clubtv.link/N151124n/phpcode/lista.php?c=327&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Warner Channel
+http://clubtv.link/N151124n/phpcode/lista.php?c=102&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Warner Channel
+http://clubtv.link/N151124n/phpcode/lista.php?c=759&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Warner Channel ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=503&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Win Sports
+http://clubtv.link/N151124n/phpcode/lista.php?c=292&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Win Sports +
+http://clubtv.link/N151124n/phpcode/lista.php?c=881&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Win Sports + ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=802&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Win Sports ᵸᴰ
+http://clubtv.link/N151124n/phpcode/lista.php?c=754&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, WWE Network
+http://clubtv.link/N151124n/phpcode/lista.php?c=276&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1,Los Simpson
+http://clubtv.link/N151124n/phpcode/24.php?c=simpson_maniahd193&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1,beto 7hd
+http://clubtv.link/N151124n/phpcode/24.php?c=beto_7hd&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1,a neflix01
+http://clubtv.link/N151124n/phpcode/24.php?c=a_neflix01&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1,cinemundo plus
+http://clubtv.link/N151124n/phpcode/24.php?c=cinemundo_plus&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1,peliculas mania
+http://clubtv.link/N151124n/phpcode/24.php?c=peliculas_mania&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1,terror mania
+http://clubtv.link/N151124n/phpcode/24.php?c=terror_mania&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1,cienciaficcion
+http://clubtv.link/N151124n/phpcode/24.php?c=cienciaficcion&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1,cienciaficcion01
+http://clubtv.link/N151124n/phpcode/24.php?c=cienciaficcion01&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1,futurama mania 
+http://clubtv.link/N151124n/phpcode/24.php?c=futurama_mania_&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1,juan 13tv
+http://clubtv.link/N151124n/phpcode/24.php?c=juan_13tv&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1,ganja tv 2
+http://clubtv.link/N151124n/phpcode/24.php?c=ganja_tv_2&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1,tufortunatv
+http://clubtv.link/N151124n/phpcode/24.php?c=tufortunatv&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1,radiofelove
+http://clubtv.link/N151124n/phpcode/24.php?c=radiofelove&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1,tvsalvision
+http://clubtv.link/N151124n/phpcode/24.php?c=tvsalvision&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1,felovetv
+http://clubtv.link/N151124n/phpcode/24.php?c=felovetv&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1,lvpradiotv
+http://clubtv.link/N151124n/phpcode/24.php?c=lvpradiotv&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1,tv777
+http://clubtv.link/N151124n/phpcode/24.php?c=tv777&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1,vozdelcielotv
+http://clubtv.link/N151124n/phpcode/24.php?c=vozdelcielotv&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1,yhwhesmisalvacion
+http://clubtv.link/N151124n/phpcode/24.php?c=yhwhesmisalvacion&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Dr. House ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=1548&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Dragon Ball (ES) ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=984&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Dragon Ball ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=425&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Dragon Ball ²⁴⁺⁷ Op. 2
+http://clubtv.link/N151124n/phpcode/lista.php?c=1546&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Dragon Ball GT ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=520&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Dragon Ball GT ²⁴⁺⁷ Op. 2
+http://clubtv.link/N151124n/phpcode/lista.php?c=1547&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Dragon Ball Super ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=424&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Dragon Ball Super ²⁴⁺⁷ Op. 2
+http://clubtv.link/N151124n/phpcode/lista.php?c=1551&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Dragon Ball Z ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=329&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Dragon Ball Z ²⁴⁺⁷ Op.2 
+http://clubtv.link/N151124n/phpcode/lista.php?c=415&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Dragon Ball Z Kai ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=993&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Dragon Ball Z Kai ²⁴⁺⁷ Op. 2
+http://clubtv.link/N151124n/phpcode/lista.php?c=1552&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Doraemon ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=521&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Doug ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=1583&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, El Chavo Animado ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=790&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, El Chavo del 8 ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=400&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, El Conde Patula ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=949&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, El Coyote y el Correcaminos ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=429&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, El Gallo Claudio ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=845&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, El Pato Darkwing ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=1579&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, El Principe del Rap ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=430&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, El Principe del Rap ²⁴⁺⁷ Op. 2
+http://clubtv.link/N151124n/phpcode/lista.php?c=1553&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, El Se\u00F1or de los Cielos ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=820&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Ed group-title="24/7",  Edd y Eddy ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=1581&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Fear The Walking Dead ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=1558&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Greys Anatomy ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=1549&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Hey Arnold ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=522&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Ironman ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=948&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, La Hora Pico ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=887&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, La Hormiga Atomica ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=1574&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, La Mascara ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=1573&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, La Casa de los Dibujos ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=1575&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, La Familia Monster ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=910&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Jorge el Curioso ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=909&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, La Rosa de Guadalupe ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=886&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, La Peque\u00F1a Lulu ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=792&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Las Aventuras de Tom Sawyer ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=1585&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Las Chicas Super Poderosas ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=1572&token=TecnotvGen1711&f=.m3u8
+http://clubtv.link/N151124n/phpcode/lista.php?c=893&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Looney Tunes ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=524&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Los 3 Chiflados ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=423&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Los Amigos de la Justicia ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=1580&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Los A\u00F1os Maravillosos ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=810&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Los Chicos del Barrio ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=1571&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Los Expedientes Secretos X ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=1570&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Los Padrinos Magicos ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=813&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Los Picapiedra ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=669&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Los Pinguinos de Madagascar ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=794&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Los Pitufos ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=795&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Los Reyes de la Colina ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=796&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Los Simpson (Temporadas 1-5) ²⁴⁺⁷ 
+http://clubtv.link/N151124n/phpcode/lista.php?c=894&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Los Simpson (Temporadas 12-17) ²⁴⁺⁷ 
+http://clubtv.link/N151124n/phpcode/lista.php?c=896&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Los Simpson (Temporadas 18-21) ²⁴⁺⁷ 
+http://clubtv.link/N151124n/phpcode/lista.php?c=897&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Los Simpson (Temporadas 22-26) ²⁴⁺⁷ 
+http://clubtv.link/N151124n/phpcode/lista.php?c=898&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Los Simpson (Temporadas 27-30) ²⁴⁺⁷ 
+http://clubtv.link/N151124n/phpcode/lista.php?c=899&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Los Simpson (Temporadas 6-11) ²⁴⁺⁷ 
+http://clubtv.link/N151124n/phpcode/lista.php?c=895&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Los Simpson ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=357&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Los Supersonicos ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=797&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Los Vengadores Unidos ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=818&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Malcolm ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=911&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Malcolm ᵸᴰ ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=798&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, M\u00E1s chic
+http://clubtv.link/N151124n/phpcode/lista.php?c=180&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, M\u00E1s chic
+http://clubtv.link/N151124n/phpcode/lista.php?c=730&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Max Steel ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=880&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Mazinger Z ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=1560&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Mr. Bean ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=431&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Mucha Lucha ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=994&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Mucha Lucha ᵸᴰ ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=995&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Naruto ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=523&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, One Punch Man ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=661&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Padre de Familia ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=416&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Patoaventuras ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=819&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Patrulla Canina ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=807&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Peppa Pig ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=787&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pinky y Cerebro ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=721&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pocoyo ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=799&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pokemon ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=420&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Prison Break ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=884&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Rugrats ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=1569&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Rugrats Crecidos ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=1568&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Sailor Moon ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=1562&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Sakura Card Captor ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=672&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Sakura Card Captor ²⁴⁺⁷ Op. 2
+http://clubtv.link/N151124n/phpcode/lista.php?c=1554&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Samurai X ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=663&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Samurai X ²⁴⁺⁷ Op. 2
+http://clubtv.link/N151124n/phpcode/lista.php?c=1555&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Scooby Doo ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=422&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Smallville ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=673&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, South Park ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=674&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Spiderman ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=889&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Super Campeones ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=432&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Supernatural ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=1563&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, The Big Bang Theory ²⁴⁺⁷ Op. 2
+http://clubtv.link/N151124n/phpcode/lista.php?c=1556&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, The Walking Dead ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=800&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, The Walking Dead ²⁴⁺⁷ Op. 2
+http://clubtv.link/N151124n/phpcode/lista.php?c=1557&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Tom y Jerry ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=421&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Yu-Gi-Oh! ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=664&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Animaniacs ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=677&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Bayblade ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=1584&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Breaking Bad ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=846&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Caballeros del Zodiaco ²⁴⁺⁷ Op. 2
+http://clubtv.link/N151124n/phpcode/lista.php?c=1565&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Candy Candy ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=808&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cantinflas ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=428&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Caso Cerrado ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=907&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Celebrity Deathmatch (EN) ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=985&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Chespirito ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=417&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Daria ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=983&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Elfen Lied ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=1588&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Futurama ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=793&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Game of Thrones ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=515&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Happy Tree Friends ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=992&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, He-Man ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=996&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, La Familia PeLuche ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=811&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pokemon ²⁴⁺⁷ Op. 2
+http://clubtv.link/N151124n/phpcode/lista.php?c=1564&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Yogui ²⁴⁺⁷
+http://clubtv.link/N151124n/phpcode/lista.php?c=1567&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1,RunTime
+http://clubtv.link/N151124n/phpcode/runtime.php?c=2154
+#EXTINF:-1,Accion
+http://clubtv.link/N151124n/phpcode/runtime.php?c=2550
+#EXTINF:-1,Comedia
+http://clubtv.link/N151124n/phpcode/runtime.php?c=2551
+#EXTINF:-1,Crimen
+http://clubtv.link/N151124n/phpcode/runtime.php?c=3533
+#EXTINF:-1,Cine Espanto
+http://clubtv.link/N151124n/phpcode/runtime.php?c=3539
+#EXTINF:-1,CINE Y SERIESma
+http://clubtv.link/N151124n/phpcode/runtime.php?c=4819
+#EXTINF:-1,Clic	
+http://clubtv.link/N151124n/phpcode/runtime.php?c=4827
+#EXTINF:-1,Corazon
+http://clubtv.link/N151124n/phpcode/runtime.php?c=4826
+#EXTINF:-1,Romance
+http://clubtv.link/N151124n/phpcode/runtime.php?c=3532
+#EXTINF:-1,Familia
+http://clubtv.link/N151124n/phpcode/runtime.php?c=3528
+#EXTINF:-1,AYM
+http://clubtv.link/N151124n/phpcode/runtime.php?c=5106
+#EXTINF:-1,CombaTV
+http://clubtv.link/N151124n/phpcode/runtime.php?c=5090
+#EXTINF:-1,Vivaldi
+http://clubtv.link/N151124n/phpcode/runtime.php?c=2806
+#EXTINF:-1, Pluto TV Cine Acción
+http://clubtv.link/N151124n/phpcode/lista.php?c=5dcb62e63d4d8f0009f36881&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Cine Comedia
+http://clubtv.link/N151124n/phpcode/lista.php?c=5dcdde78f080d900098550e4&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Cine Terror
+http://clubtv.link/N151124n/phpcode/lista.php?c=5dcddf1ed95e740009fef7ab&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Viajes
+http://clubtv.link/N151124n/phpcode/lista.php?c=5dcddfbdb7cf0e0009ae09ea&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Cine Drama
+http://clubtv.link/N151124n/phpcode/lista.php?c=5dcddfcb229eff00091b6bdf&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Cocina
+http://clubtv.link/N151124n/phpcode/lista.php?c=5dcde0657444a40009cd2422&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Deportes
+http://clubtv.link/N151124n/phpcode/lista.php?c=5dcde07af1c85b0009b18651&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Novelas
+http://clubtv.link/N151124n/phpcode/lista.php?c=5dcde0cc2efd2700090b7ff4&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Series
+http://clubtv.link/N151124n/phpcode/lista.php?c=5dcde1317578340009b751d0&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Anime
+http://clubtv.link/N151124n/phpcode/lista.php?c=5dcde17bf6591d0009839e02&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Reality
+http://clubtv.link/N151124n/phpcode/lista.php?c=5dcde197f6591d0009839e04&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Investiga
+http://clubtv.link/N151124n/phpcode/lista.php?c=5dcde27ffae9520009c0c75a&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Junior
+http://clubtv.link/N151124n/phpcode/lista.php?c=5dcde2ac4bc6c500094ab45b&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Misterios
+http://clubtv.link/N151124n/phpcode/lista.php?c=5dcde2f53449c50009b2b4dc&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Cine Estelar
+http://clubtv.link/N151124n/phpcode/lista.php?c=5dcde437229eff00091b6c30&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Hogar
+http://clubtv.link/N151124n/phpcode/lista.php?c=5dd6ab8056beb000091fc6b6&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV  Competencias
+http://clubtv.link/N151124n/phpcode/lista.php?c=5dd6d935d000120009bc1132&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Kids
+http://clubtv.link/N151124n/phpcode/lista.php?c=5dd6dae8ce788b0009eaf77b&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Velocidad
+http://clubtv.link/N151124n/phpcode/lista.php?c=5dd6dc7480e3550009133d4a&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Cine Familia
+http://clubtv.link/N151124n/phpcode/lista.php?c=5dd6ddb30a1d8a000908ed4c&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Teen
+http://clubtv.link/N151124n/phpcode/lista.php?c=5dd6de52b9914200091f047a&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Cine Romance
+http://clubtv.link/N151124n/phpcode/lista.php?c=5dd7ea2aeab5230009986735&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Animales
+http://clubtv.link/N151124n/phpcode/lista.php?c=5dd834c66fe2ca0009303b8d&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Ciencia
+http://clubtv.link/N151124n/phpcode/lista.php?c=5dd8364ea1d6780009929902&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Series Latinas
+http://clubtv.link/N151124n/phpcode/lista.php?c=5dd837642c6e9300098ad484&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Naturaleza
+http://clubtv.link/N151124n/phpcode/lista.php?c=5dd85eac039bba0009e86d1d&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Aventura
+http://clubtv.link/N151124n/phpcode/lista.php?c=5ddc266f80e3550009136843&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Cine Suspenso
+http://clubtv.link/N151124n/phpcode/lista.php?c=5ddc4e8bcbb9010009b4e84f&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Nick Clásico
+http://clubtv.link/N151124n/phpcode/lista.php?c=5ddd7c348520b40009c347e2&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Nick Jr. Club
+http://clubtv.link/N151124n/phpcode/lista.php?c=5ddd7cb2cbb9010009b4fe32&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Historia
+http://clubtv.link/N151124n/phpcode/lista.php?c=5de5758e1a30dc00094fcd6c&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Series Retro
+http://clubtv.link/N151124n/phpcode/lista.php?c=5de802659167b10009e7deba&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, MTV Classic
+http://clubtv.link/N151124n/phpcode/lista.php?c=5de91b7ea86ee60009d89e75&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Telefe Hits
+http://clubtv.link/N151124n/phpcode/lista.php?c=5de91cf02fc07c0009910465&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV  Nuestro Cine
+http://clubtv.link/N151124n/phpcode/lista.php?c=5defde6d6c07b50009cf0757&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Vida Real
+http://clubtv.link/N151124n/phpcode/lista.php?c=5df265697ec3510009df1ef0&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, MasterChef
+http://clubtv.link/N151124n/phpcode/lista.php?c=5e3ddbd27091820009f86dd9&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Fútbol Para Fans
+http://clubtv.link/N151124n/phpcode/lista.php?c=5e3ddd1a3ef73b00091d5779&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Minuto Para Ganar
+http://clubtv.link/N151124n/phpcode/lista.php?c=5e46e64dc73db400094b5f0b&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Los archivos del FBI
+http://clubtv.link/N151124n/phpcode/lista.php?c=5e67d41b93312100076f3fca&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Babar
+http://clubtv.link/N151124n/phpcode/lista.php?c=5e67e20c93312100076f3ffe&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Animé Acción
+http://clubtv.link/N151124n/phpcode/lista.php?c=5e6a4d875d7ccf0007cc2cf1&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Guía de canales
+http://clubtv.link/N151124n/phpcode/lista.php?c=5e793a7cfbdf780007f7eb75&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Humor
+http://clubtv.link/N151124n/phpcode/lista.php?c=5e8397936791b30007ebb5a7&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Estrellas de Acción
+http://clubtv.link/N151124n/phpcode/lista.php?c=5e972a21ad709d00074195ba&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, MTV Ridiculousness
+http://clubtv.link/N151124n/phpcode/lista.php?c=5e98a911c881310007d7aae2&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Peleas
+http://clubtv.link/N151124n/phpcode/lista.php?c=5e98b0447665f200078caded&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, The New Detectives
+http://clubtv.link/N151124n/phpcode/lista.php?c=5ea71d48af1d0b0007d837f4&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Rugrats
+http://clubtv.link/N151124n/phpcode/lista.php?c=5ea7215005d66d0007e8128a&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Babyfirst
+http://clubtv.link/N151124n/phpcode/lista.php?c=5ebac49ce4dc8b00078b23bc&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, People are Awesome
+http://clubtv.link/N151124n/phpcode/lista.php?c=5ebac65911406400078b8993&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, The Pet Collective
+http://clubtv.link/N151124n/phpcode/lista.php?c=5ebacbcae43a6d000787b88e&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, FailArmy
+http://clubtv.link/N151124n/phpcode/lista.php?c=5ebaccf1734aaf0007142c86&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Wipe Out
+http://clubtv.link/N151124n/phpcode/lista.php?c=5ed6828192e8b3000743ef61&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Fashionstream
+http://clubtv.link/N151124n/phpcode/lista.php?c=5ee8d84bfb286e0007285aad&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Naruto
+http://clubtv.link/N151124n/phpcode/lista.php?c=5ee92e72fb286e0007285fec&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Archivos Forenses
+http://clubtv.link/N151124n/phpcode/lista.php?c=5efb8c19b2678b000780d032&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Misterios Medicos
+http://clubtv.link/N151124n/phpcode/lista.php?c=5f230e416b68ff00075b0139&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Empeños a lo bestia
+http://clubtv.link/N151124n/phpcode/lista.php?c=5f23102d5e239d00074b092a&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Sci-Fi
+http://clubtv.link/N151124n/phpcode/lista.php?c=5f2817d3d7573a00080f9175&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Barney
+http://clubtv.link/N151124n/phpcode/lista.php?c=5f29ada4bdaebd000708d49d&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Historias de Ultratumba
+http://clubtv.link/N151124n/phpcode/lista.php?c=5f4d3696d938c900072679fd&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, El Reino Infantil
+http://clubtv.link/N151124n/phpcode/lista.php?c=5f4d3d06fb60d8000781fce8&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Paisajes por Stingray
+http://clubtv.link/N151124n/phpcode/lista.php?c=5f4fed840a2764000720d966&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Telefe Noticias
+http://clubtv.link/N151124n/phpcode/lista.php?c=5f523aa5523ae000074745ec&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Misterios sin Resolver
+http://clubtv.link/N151124n/phpcode/lista.php?c=5f610042272f68000867685b&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Conciertos por Stingray
+http://clubtv.link/N151124n/phpcode/lista.php?c=5f85ca40eda1b10007b967cd&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Karaoke por Stingray
+http://clubtv.link/N151124n/phpcode/lista.php?c=5f85cf621d6d2200079f1de0&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Los Tres Chiflados
+http://clubtv.link/N151124n/phpcode/lista.php?c=5f85f1dc1418bd0007e11eb9&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Tastemade
+http://clubtv.link/N151124n/phpcode/lista.php?c=5f998c1fc54853000797bacd&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Dog el cazarrecompensas
+http://clubtv.link/N151124n/phpcode/lista.php?c=5f9992c685a2a80007fa414a&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Las Pistas de Blue
+http://clubtv.link/N151124n/phpcode/lista.php?c=5f9996533c9de3000759ccb5&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Lucha Libre AAA
+http://clubtv.link/N151124n/phpcode/lista.php?c=5f99a772c54853000797bf18&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Nosey Escándalos
+http://clubtv.link/N151124n/phpcode/lista.php?c=5f9afb01816137000737f799&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, MTV Pluto TV
+http://clubtv.link/N151124n/phpcode/lista.php?c=5fab088b3279760007d4e4fd&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Nick Teen
+http://clubtv.link/N151124n/phpcode/lista.php?c=5fab09a8749b1a00077d35d2&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, ESR 24/7
+http://clubtv.link/N151124n/phpcode/lista.php?c=5fb554d87a0c480007c8dada&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Filmstream
+http://clubtv.link/N151124n/phpcode/lista.php?c=5fcea359e533cb0007215c71&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Kenan y Kel
+http://clubtv.link/N151124n/phpcode/lista.php?c=5fcea93ffcf94500071c4b2f&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Yu-Gi-Oh
+http://clubtv.link/N151124n/phpcode/lista.php?c=5fceaab478f2af00080ff51f&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV E-Sports
+http://clubtv.link/N151124n/phpcode/lista.php?c=5ff3934600d4c7000733ff49&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, One Piece
+http://clubtv.link/N151124n/phpcode/lista.php?c=5ff4b9ccf938f8000779eb99&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Tokusato
+http://clubtv.link/N151124n/phpcode/lista.php?c=5ff608e60e2996000768c366&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Comedy Central Pluto TV
+http://clubtv.link/N151124n/phpcode/lista.php?c=5ffcc21a432945000762d06b&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV España
+http://clubtv.link/N151124n/phpcode/lista.php?c=5ffe17e3d765170007c3a4fe&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Paramount+ Presenta
+http://clubtv.link/N151124n/phpcode/lista.php?c=600728952b1776000776526d&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Retro Cartoons
+http://clubtv.link/N151124n/phpcode/lista.php?c=60142258a54aeb0007751c15&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, MTV Biggest Pop
+http://clubtv.link/N151124n/phpcode/lista.php?c=6047fabfce6e8e00070bcc9f&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, MTV Spankin' New
+http://clubtv.link/N151124n/phpcode/lista.php?c=6047fd723b5bd00007de7092&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Sin Tetas No Hay Paraíso
+http://clubtv.link/N151124n/phpcode/lista.php?c=604bdf4e6d0abc0007ba77ad&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Anime Héroes
+http://clubtv.link/N151124n/phpcode/lista.php?c=6079be62f9f8d6000783c8a4&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Cine Clásico
+http://clubtv.link/N151124n/phpcode/lista.php?c=609059dc63be6e0007b4eca6&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Recetas
+http://clubtv.link/N151124n/phpcode/lista.php?c=609062295c2b8f0007199e7a&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Hells Kitchen
+http://clubtv.link/N151124n/phpcode/lista.php?c=6095ad97351eb0000754c1e6&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Boom
+http://clubtv.link/N151124n/phpcode/lista.php?c=6099600015e88c0007ecda25&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Comedy Central South Park
+http://clubtv.link/N151124n/phpcode/lista.php?c=609ae5cd48d3200007b0a98e&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Motorvision TV
+http://clubtv.link/N151124n/phpcode/lista.php?c=60e5ea9a9bb4200008376f76&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, El Encantador de Perros
+http://clubtv.link/N151124n/phpcode/lista.php?c=61099f2b40d0640007fc5aa2&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Cazador de Homicidas
+http://clubtv.link/N151124n/phpcode/lista.php?c=6109a9f5531b840007a4a187&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Mi Obsesión Favorita
+http://clubtv.link/N151124n/phpcode/lista.php?c=6109ab25b84d6a0007504886&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, El Mariachi
+http://clubtv.link/N151124n/phpcode/lista.php?c=612f8b455ed5810007170b5f&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, FUEL TV
+http://clubtv.link/N151124n/phpcode/lista.php?c=6144d313b34fbf0007107714&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Iron Chef
+http://clubtv.link/N151124n/phpcode/lista.php?c=615b9855c6b58b000724477f&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Younger
+http://clubtv.link/N151124n/phpcode/lista.php?c=619d56d9fa3070000709e3f7&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Euronews Español
+http://clubtv.link/N151124n/phpcode/lista.php?c=619d59b7cbef25000728221c&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Baby Shark TV
+http://clubtv.link/N151124n/phpcode/lista.php?c=619d5e6a093e7c0007489211&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, MTV Shore
+http://clubtv.link/N151124n/phpcode/lista.php?c=61a52615cbef2500072876e2&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Pluto TV Adrenalina Freezone
+http://clubtv.link/N151124n/phpcode/lista.php?c=61b793ccf571b80007b7a610&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Rock Story
+http://clubtv.link/N151124n/phpcode/lista.php?c=61f159209fcc3800076ed4a1&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Señorita Pólvora
+http://clubtv.link/N151124n/phpcode/lista.php?c=61f323397027f90007542bc3&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Chilevision Noticias
+http://clubtv.link/N151124n/phpcode/lista.php?c=61f94a2866401100074e9dee&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Schitt's Creek
+http://clubtv.link/N151124n/phpcode/lista.php?c=620ac814864949000724fb77&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, MTV Teen Mom
+http://clubtv.link/N151124n/phpcode/lista.php?c=620fd9f4afb9a80007a9c6d5&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Nickelodeon iCarly
+http://clubtv.link/N151124n/phpcode/lista.php?c=620ff0a01f9e8700076c6f9d&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Ice Pilots
+http://clubtv.link/N151124n/phpcode/lista.php?c=62154548a2be360007cb02f0&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, CBS News
+http://clubtv.link/N151124n/phpcode/lista.php?c=62310d5a5dc9550007c6f580&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, The Night Shift
+http://clubtv.link/N151124n/phpcode/lista.php?c=624f4d4a4321e200073f46e0&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Bob Esponja Pantalones Cuadrados
+http://clubtv.link/N151124n/phpcode/lista.php?c=6254598f5083f800076d8563&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, MTV Catfish
+http://clubtv.link/N151124n/phpcode/lista.php?c=625461ef01f27a0007976ad1&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Maestros de la Ilusión
+http://clubtv.link/N151124n/phpcode/lista.php?c=6254ab6fa74f8e0007ba6879&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Death Note
+http://clubtv.link/N151124n/phpcode/lista.php?c=626c2ed933a2890007e91422&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Chilevision Contigo
+http://clubtv.link/N151124n/phpcode/lista.php?c=62aa5740a47b6c000769f407&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Daria
+http://clubtv.link/N151124n/phpcode/lista.php?c=62d0895ebe7a970008785244&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, La Familia del Barrio
+http://clubtv.link/N151124n/phpcode/lista.php?c=62d08af527ce19000731eaa0&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, La Liga Premier | Paramount+
+http://clubtv.link/N151124n/phpcode/lista.php?c=62d816fcf24d280008762ee9&token=TecnotvGen1711&f=.m3u8
+#EXTINF:-1, Las Estrellas
+https://dai.google.com/ssai/event/_e1s_U52SCGL6zTnlTrbVQ/master.m3u8
+#EXTINF:-1, AZ UNO
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1, AZ 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1, MULTIMEDIOS MTY
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1, ESTRELLA TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1, AZTECA 7.2
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1, ADN40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1, CANAL 26 AGUASCALIENTES
+http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
+#EXTINF:-1,Conecta TV
+https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
+#EXTINF:-1,Fare Sport MX
+https://eu1.servers10.com:8081/8140/index.m3u8
+#EXTINF:-1,Canal Once Internacional
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1,15TV Sabinas
+https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
+#EXTINF:-1,8 NTV
+https://60417ddeaf0d9.streamlock.net:443/ntv/videontv/playlist.m3u8
+#EXTINF:-1,ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1,Canal 10 Cancun
+https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+#EXTINF:-1,Canal 10 Chiapas
+https://5ca9af4645e15.streamlock.net:443/chiapas/videochiapas/playlist.m3u8
+#EXTINF:-1,Canal 12.1 Colima
+https://5ca9af4645e15.streamlock.net:443/canal11/videocanal11/playlist.m3u8
+#EXTINF:-1,Canal 15 Fresnillo
+https://60ed5b6d0df78.streamlock.net:1936/lsac/ngrp:lsac_all/playlist.m3u8
+#EXTINF:-1,Canal 28 Nuevo Leon
+https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
+#EXTINF:-1,Canal 4 Saltillo
+https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
+#EXTINF:-1,Canal 7 SLP
+https://mvtvstream.com:444/live/603d046595b62/index.m3u8
+#EXTINF:-1,Canal Cultural Huauchinango
+https://xhateaec.com:8800/hls/loboTV/loboTV/7ea5ffe887d1b97982c9f469482e6ef5/index.m3u8
+#EXTINF:-1,Canal Once Mexico
+https://live2.canaloncelive.tv/oncemx/smil:oncemx.smil/playlist.m3u8
+#EXTINF:-1,Canal Once Nacional
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
+#EXTINF:-1,Central FM
+https://5fe2654d6127d.streamlock.net:443/centralfm/smil:centralfm.smil/playlist.m3u8
+#EXTINF:-1,Enfoque de la Sierra
+https://90f2-201-114-105-69.ngrok.io/tmp_hls/stream/index.m3u8
+#EXTINF:-1,Genesis TV
+https://53c64a8009488.streamlock.net/genesis/smil:television.smil/playlist.m3u8
+#EXTINF:-1,GikTVMX
+https://pistream.ddns.net/hls/stream.m3u8
+#EXTINF:-1,Impactovision
+https://5ca9af4645e15.streamlock.net:443/impactovision/videoimpactovision/playlist.m3u8
+#EXTINF:-1,Jalisco TV
+https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8
+#EXTINF:-1,Mexiquense TV
+https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1,Multimedios CDMX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:-1,Multimedios Guadalajara
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1,Multimedios Laguna
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1,Multimedios Monterrey
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1,MVM MÉXICO Oaxaca
+https://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/master.m3u8
+#EXTINF:-1,Presumiendo Mexico
+https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
+#EXTINF:-1,RCG 1 Saltillo
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
+#EXTINF:-1,RCG 2 Saltillo
+https://5caf24a595d94.streamlock.net:1937/stream23/stream23/playlist.m3u8
+#EXTINF:-1,RCG 3 Saltillo
+https://5caf24a595d94.streamlock.net:1937/stream56/stream56/playlist.m3u8
+#EXTINF:-1,RTQ Queretaro
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
+#EXTINF:-1,SIZART Canal 24 Zacatecas
+https://5ca9af4645e15.streamlock.net:443/zacatecas/videozacatecas/playlist.m3u8
+#EXTINF:-1,Telemax Hermosillo
+https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/playlist.m3u8
+#EXTINF:-1,Teleplay
+https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
+#EXTINF:-1,Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1,Tempus Stream
+https://video1.getstreamhosting.com:1936/8116/8116/playlist.m3u8
+#EXTINF:-1,Tlaxcala TV
+https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8
+#EXTINF:-1,Transmedia TV Morelia
+https://5ca3e84a76d30.streamlock.net:443/tmtv/videotmtv/playlist.m3u8
+#EXTINF:-1,TRC TV Campeche
+https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
+#EXTINF:-1,TV Lobo
+http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
+#EXTINF:-1,TV4 Cultura
+https://5ca3e84a76d30.streamlock.net/tv42/smil:tv42.smil/playlist.m3u8
+#EXTINF:-1,TV4 Deportes
+https://5ca3e84a76d30.streamlock.net/tv43/smil:tv43.smil/playlist.m3u8
+#EXTINF:-1,TV4 MÉXICO
+https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
+#EXTINF:-1,TVP Culiacan
+https://5ca3e84a76d30.streamlock.net:443/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+#EXTINF:-1,TVP Los Mochis
+https://5ca3e84a76d30.streamlock.net:443/gpacifico2/smil:mochis.smil/playlist.m3u8
+#EXTINF:-1,TVP Mazatlan
+https://5ca3e84a76d30.streamlock.net:443/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+#EXTINF:-1,TVP Obregon
+https://5ca3e84a76d30.streamlock.net:443/gpacifico3/smil:obregon.smil/playlist.m3u8
+#EXTINF:-1,UMTV
+https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist.m3u8
+#EXTINF:-1,AMX MÉXICO
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1,Canal 66 El Canal de las MÉXICO
+https://60417ddeaf0d9.streamlock.net:443/canal66/smil:canal66.smil/playlist.m3u8
+#EXTINF:-1,Alcance TV
+https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8
+#EXTINF:-1,Canal Once Del Zulia
+https://streaming5.globalhostla.com/rtplive/canalzulia/playlist.m3u8
+#EXTINF:-1,Promar TV
+https://vcp.myplaytv.com/promar/promar/playlist.m3u8
+#EXTINF:-1,Reforma TV
+https://5bf8041cb3fed.streamlock.net:443/ReformaTV/ReformaTV/playlist.m3u8
+#EXTINF:-1,Telearagua
+http://45.173.198.59:8080/hls/nginx3.m3u8
+#EXTINF:-1,TLT
+https://vcp4.myplaytv.com/xtlt/xtlt.stream/playlist.m3u8
+#EXTINF:-1,Telesur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1,Telesur English
+https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+#EXTINF:-1,ShowVen TV
+https://vcp.myplaytv.com/coll/coll/playlist.m3u8
+#EXTINF:-1,TVS Maracay
+https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
+#EXTINF:-1,Canal i
+https://vcp.myplaytv.com/canali/canali/playlist.m3u8
+#EXTINF:-1,Venevision
+http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8
+#EXTINF:-1,Nubeh TV
+https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8
+#EXTINF:-1,Oxigeno Network
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
+#EXTINF:-1,Panavision
+https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
+#EXTINF:-1,Italianissimo
+https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
+#EXTINF:-1,MovieFE
+https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
+#EXTINF:-1,Anzoategui TV
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+#EXTINF:-1,Chivacoa TV
+https://glb.bozztv.com/glb/ssh101/1234chivacoa/index.m3u8
+#EXTINF:-1,eSports Max TV
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+#EXTINF:-1,Cantina TV
+https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
+#EXTINF:-1,EXC TV
+https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
+#EXTINF:-1,PLTV
+https://vcp.myplaytv.com/pltv/pltv/playlist.m3u8
+#EXTINF:-1,TRV
+https://vcp3.myplaytv.com/trv/trv/playlist.m3u8
+#EXTINF:-1,TV FANB
+https://vcp2.myplaytv.com/tvfanb/tvfanb/playlist.m3u8
+#EXTINF:-1,Vale TV
+https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
+#EXTINF:-1,MDA TV
+https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
+#EXTINF:-1,Globovision
+https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
+#EXTINF:-1,TRT
+https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
+#EXTINF:-1,Oasis TV
+http://vcp1.myplaytv.com/oasistv/oasistv/playlist.m3u8
+#EXTINF:-1,Torococo TV
+https://us.streaminghd.cl/torococotelevision/video.m3u8
+#EXTINF:-1,Canal Diplomatico
+https://vcp7.myplaytv.com/canaldiplomatico/canaldiplomatico/playlist.m3u8
+#EXTINF:-1,Corazon Llanero
+https://vcp.myplaytv.com/corazonllanero/corazonllanero/playlist.m3u8
+#EXTINF:-1,Plous TV
+https://vcp7.myplaytv.com/glowtv/glowtv/playlist.m3u8
+#EXTINF:-1,Latina TV
+https://vcp13.myplaytv.com/latinatv/latinatv/playlist.m3u8
+#EXTINF:-1,Somos TV
+https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8
+#EXTINF:-1,TV Andes
+https://vcp3.myplaytv.com/tvandes/tvandes/playlist.m3u8
+#EXTINF:-1,Net Channel
+https://media.streambrothers.com:19360/8158/8158.m3u8
+#EXTINF:-1,Barinas TV
+https://vcp13.myplaytv.com/barinastv/barinastv/playlist.m3u8
+#EXTINF:-1,Televisora Andina de Merida
+https://tv.webtuya.com:3459/live/tammeridalive.m3u8
+#EXTINF:-1,Aguacate TV
+https://streamtv.intervenhosting.net:3040/live/aguacatetvbqtolive.m3u8
+#EXTINF:-1,Guaro TV
+https://streamtv.intervenhosting.net:3061/live/guarotvbqtolive.m3u8
+#EXTINF:-1,Retro Plus TV
+https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
+#EXTINF:-1,Retro Plus TV Señal 2
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
+#EXTINF:-1,Retro Plus TV Señal 3
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
+#EXTINF:-1,Recuerdos Retro Radio TV
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
+#EXTINF:-1,VClassicTV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+#EXTINF:-1,VClassicTV Tropical
+https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8
+#EXTINF:-1,Portal FoxMix
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
+#EXTINF:-1,Apanines TV
+https://glb.bozztv.com/glb/ssh101/apaninestv02/index.m3u8
+#EXTINF:-1,Spectrum Channel
+https://stream.skarnetchile.com:19360/spectrumchannel/spectrumchannel.m3u8
+#EXTINF:-1,Kanade TV
+https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
+#EXTINF:-1,EnerGeek FAN
+https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
+#EXTINF:-1,EnerGeek Retro
+https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
+#EXTINF:-1,EnerGeek Radio
+https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262.m3u8
+#EXTINF:-1,Moni TV
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
+#EXTINF:-1,Terror TV
+https://tv.streaming-chile.com:19360/8140/8140.m3u8
+#EXTINF:-1,Ruidos TV
+https://stream.skarnetchile.com:19360/ruidostv/ruidostv.m3u8
+#EXTINF:-1,Eternal Metal
+https://vdo.panelstreaming.live:3261/hybrid/play.m3u8
+#EXTINF:-1,Latinos Radio
+https://stmv5.voxtvhd.com.br/latinosmedia/latinosmedia/playlist.m3u8
+#EXTINF:-1,PlanetaTV
+https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8
+#EXTINF:-1,Parentesis TV
+https://freya.mivideo.pro:8081/parentesistv/index.m3u8
+#EXTINF:-1,Mundo de la Musica TV
+https://panel.tvstream.cl:1936/8092/8092/playlist.m3u8
+#EXTINF:-1,Karavana TV
+https://marine2.miplay.cl/karavanatv/playlist.m3u8
+#EXTINF:-1,La Chilena TV
+https://vdochile.com:3134/hybrid/play.m3u8
+#EXTINF:-1,Suyai TV
+https://signal.suyaitv.cl/live/13/playlist.m3u8?username=demo&password=001&PlaylistM3UCL
+#EXTINF:-1,CRTV
+https://videolatam.com:3599/hybrid/play.m3u8
+#EXTINF:-1,Alfa TV
+https://v2.tustreaming.cl/alfatv/index.m3u8
+#EXTINF:-1,El Club de Edusaurio
+https://v4.tustreaming.cl/edusauriotv/index.m3u8
+#EXTINF:-1,El Conquistador La Serena
+https://v4.tustreaming.cl:443/elcqlaserena/index.m3u8
+#EXTINF:-1,Radio Frecuencia Uno
+https://v1.tustreaming.cl/frecuencia1tv/index.m3u8
+#EXTINF:-1,CalbucoNet
+https://videostream.chileservidores.com:8081/chiloe5/index.m3u8
+#EXTINF:-1,Suyai TV II
+https://signal.suyaitv.cl/live/28/playlist.m3u8?username=demo&password=001&PlaylistM3UCL
+#EXTINF:-1,Folclor Peñaflor
+https://giatv.bozztv.com/giatv/giatv-FolclorPenaflor/FolclorPenaflor/playlist.m3u8
+#EXTINF:-1,Lautarovision
+https://glb.bozztv.com/glb/ssh101/metamediacl/index.m3u8
+#EXTINF:-1,Revolviendola Radio
+https://giatv.bozztv.com/giatv/giatv-revolviendolaradio/revolviendolaradio/playlist.m3u8
+#EXTINF:-1,Poesia TV
+https://stmv5.voxtvhd.com.br/radiopoesia/radiopoesia/playlist.m3u8
+#EXTINF:-1,Radio Zona 90.3
+https://premium.tvcontrolcp.com:19360/radiozona/radiozona.m3u8
+#EXTINF:-1,Radio Vibra
+https://glb.bozztv.com/glb/ssh101/vibrafm/index.m3u8
+#EXTINF:-1,Canal Rex
+https://v4.tustreaming.cl/canalrex/index.m3u8
+#EXTINF:-1,C y G TV
+https://tv.telselec.cl:3254/live/cygtvlive.m3u8
+#EXTINF:-1,Radio Video Mix
+https://radioxxx.ddns.net/hls/stream.m3u8
+#EXTINF:-1,TeleOvalle
+https://v2.tustreaming.cl/teleovalle/index.m3u8
+#EXTINF:-1,Opinionsur Series
+https://glb.bozztv.com/glb/ssh101/opinionsurs/index.m3u8
+#EXTINF:-1,Opinionsur Niños
+https://glb.bozztv.com/glb/ssh101/opinionsurn/index.m3u8
+#EXTINF:-1,Zoom Tecnologico Plus
+https://5f700d5b2c46f.streamlock.net:443/zoomtec/zoomtec/playlist.m3u8
+#EXTINF:-1,Bombi TV
+https://tv.streaming-chile.com:1936/bombitv/bombitv/playlist.m3u8
+#EXTINF:-1,Radio Proyeccion
+https://glb.bozztv.com/glb/ssh101/rprotv/index.m3u8
+#EXTINF:-1,Apocalipsis TV
+https://us.streaminghd.cl/apocalipsistvd/video.m3u8
+#EXTINF:-1,Suyai Radio
+https://signal.suyaitv.cl/live/26/playlist.m3u8?username=demo&password=001&PlaylistM3UCL
+#EXTINF:-1,Red Vision Television
+https://tls-cl.cdnz.cl/livertv/live/playlist.m3u8
+#EXTINF:-1,CTV35
+https://paneltv.online:1936/8040/8040/playlist.m3u8
+#EXTINF:-1,Santa Cruz HD
+https://stmv5.voxtvhd.com.br/davidsantacruz/davidsantacruz/playlist.m3u8
+#EXTINF:-1,RialTv
+https://5eaccbab48461.streamlock.net:1936/8258/8258/playlist.m3u8
+#EXTINF:-1,Providencia Television
+https://v1.tustreaming.cl/providenciatv/index.m3u8
+#EXTINF:-1,Radio Fin Del Mundo TV
+https://glb.bozztv.com/glb/ssh101/rfdmtv/index.m3u8
+#EXTINF:-1,ZTV Anime
+https://mitv.zplay.cl/Ztv/index.m3u8
+#EXTINF:-1,RTV
+https://eu1.servers10.com:8081/8162/index.m3u8
+#EXTINF:-1,Maray TV
+https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8
+#EXTINF:-1,VideoHit
+https://streaming-cl.sh1ny.space/memfs/c3185a20-390f-4fe7-b063-fe5c3236e7fd.m3u8
+#EXTINF:-1,AniRetro
+https://tv.streaming-chile.com:19360/8068/8068.m3u8
+#EXTINF:-1,DCH
+https://v4.tustreaming.cl:19360/digitalchannel/digitalchannel.m3u8
+#EXTINF:-1,DVC Television
+https://us.streaminghd.cl/dvctelevision/index.m3u8
+#EXTINF:-1,Unetev
+https://panel.tvstream.cl:1936/8070/8070/playlist.m3u8
+#EXTINF:-1,Modo Radio
+https://wifiexpert-1.energeek.cl/energeek/modoradio/playlist.m3u8
+#EXTINF:-1,Latina TV
+https://paneltv.online:1936/8044/8044/playlist.m3u8
+#EXTINF:-1,Ritmo Top Latino
+https://panel.tvstream.cl:1936/8048/8048/playlist.m3u8
+#EXTINF:-1,Radio Imagen 106.5
+https://panel.tvstream.cl:1936/8066/8066/playlist.m3u8
+#EXTINF:-1,Somos TV
+https://v1.tustreaming.cl/somostv/index.m3u8
+#EXTINF:-1,Sabrosona TV
+https://samson.streamerr.co:8081/sabrosonavideo/index.m3u8
+#EXTINF:-1,Caldera Vision TV
+https://us.streaminghd.cl/calderavisiontv/index.m3u8
+#EXTINF:-1,Radio Navarino
+https://panel.tvstream.cl:1936/8000/8000/playlist.m3u8
+#EXTINF:-1,Wapp
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/wapptv/wapptv.smil/playlist.m3u8
+#EXTINF:-1,La Red
+https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
+#EXTINF:-1,TV+
+https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
+#EXTINF:-1,TVN - Reuters
+https://mdstrm.com/live-stream-playlist/5346f657c1e6f5810b5b9df3.m3u8
+#EXTINF:-1,TVN - 24h
+http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8
+#EXTINF:-1,TVN
+https://panel.miplay.cl:8081/tvn/index.m3u8
+#EXTINF:-1,NTV
+https://marine2.miplay.cl/ntv/playlist.m3u8
+#EXTINF:-1,TVN3
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+#EXTINF:-1,TVN 24 Horas
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
+#EXTINF:-1,Mega
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+#EXTINF:-1,Meganoticias
+https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
+#EXTINF:-1,CHV
+https://mdstrm.com/live-stream-playlist/5ef5fb3025c9a6086c457c55.m3u8
+#EXTINF:-1,CHV Deportes
+https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8
+#EXTINF:-1,Canal 13
+https://m3u.cl/channel/c13.php
+#EXTINF:-1,FutGO
+https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8
+#EXTINF:-1,D13
+https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
+#EXTINF:-1,T13
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+#EXTINF:-1,T13 Radio
+https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8
+#EXTINF:-1,Chilevisual Classic
+https://stmv5.voxtvhd.com.br/chilevisual/chilevisual/playlist.m3u8
+#EXTINF:-1,Nova TV Canal 7
+https://oracle.streaminghd.cl/novatvcanal7/novatvcanal7/playlist.m3u8
+#EXTINF:-1,Radio Contemporanea Coihueco
+https://tv.streaming-chile.com:19360/8046/8046.m3u8
+#EXTINF:-1,Radio Labrar TV
+https://ssh101-fl.bozztv.com/ssh101/radiolabrartv/index.m3u8
+#EXTINF:-1,WF9
+https://5eaccbab48461.streamlock.net:1936/8240/8240/playlist.m3u8
+#EXTINF:-1,Music PUQ
+https://vdochile.com:3131/live/redupxprlive.m3u8
+#EXTINF:-1,Classic Channel
+https://paneltv.online:1936/8046/8046/playlist.m3u8
+#EXTINF:-1,TV y TV
+https://stmv5.voxtvhd.com.br/tvytv/tvytv/playlist.m3u8
+#EXTINF:-1,Play Music Conectados
+https://premium.tvcontrolcp.com:19360/8052/8052.m3u8
+#EXTINF:-1,Galactika Media
+https://oracle.streaminghd.cl/galactika-1/galactika-1/playlist.m3u8
+#EXTINF:-1,Red Circle
+https://5e3483cba9114.streamlock.net:443/8016/8016/playlist.m3u8
+#EXTINF:-1,Dance FM
+https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
+#EXTINF:-1,Opinionsur Cine
+https://fl1002.bozztv.com/ssh101/opinionsur/index.m3u8
+#EXTINF:-1,HiperTV
+https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
+#EXTINF:-1,Onda Radio TV
+https://tv.streaming-chile.com:1936/ondaradiotv/ondaradiotv/playlist.m3u8
+#EXTINF:-1,Energia TV
+https://andromeda2.trapemn.tv:1936/regionales/energia-fm/playlist.m3u8
+#EXTINF:-1,Dodo TV
+https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8
+#EXTINF:-1,Greekz
+https://stream.zafirehosting.com:3911/live/greekztvlive.m3u8
+#EXTINF:-1,13 Kids
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
+#EXTINF:-1,Eva Retro
+https://premium.tvcontrolcp.com:19360/evaretro/evaretro.m3u8
+#EXTINF:-1,TV Prime Peliculas
+https://premium.tvcontrolcp.com:19360/8062/8062.m3u8
+#EXTINF:-1,+Cine
+https://tv.streaming-chile.com:19360/8142/8142.m3u8
+#EXTINF:-1,Pintana TV
+http://live.mundogo.cl/mundo/Pintanatv/index.m3u8
+#EXTINF:-1,Pichilemu TV
+https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8
+#EXTINF:-1,El 3 de Conce
+https://us.streaminghd.cl/el3deconce/index.m3u8
+#EXTINF:-1,La Granja TV
+https://oracle.streaminghd.cl/8126/8126/playlist.m3u8
+#EXTINF:-1,Exprezion TV
+https://vdochile.com:3774/live/cnrhiawklive.m3u8
+#EXTINF:-1,G Vision
+https://videostream.chileservidores.com:8081/tome/index.m3u8
+#EXTINF:-1,Comunitaria Radio Tv
+https://panel.tvstream.cl:1936/8050/8050/playlist.m3u8
+#EXTINF:-1,TVMas2
+https://marine2.miplay.cl/tateti/playlist.m3u8
+#EXTINF:-1,13 Cultura
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+#EXTINF:-1,13 Entretencion
+https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
+#EXTINF:-1,13 Prime
+https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
+#EXTINF:-1,13 Teleseries
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+#EXTINF:-1,13 Festival
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+#EXTINF:-1,13 Humor
+https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
+#EXTINF:-1,13 Realities
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+#EXTINF:-1,U Chile TV
+https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
+#EXTINF:-1,UCV
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+#EXTINF:-1,UCV 2
+https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
+#EXTINF:-1,STGO.TV
+https://stv4.janus.cl/playlist/stream.m3u8?s=lq&t=&id=luflljxo&q=&d=w&PlaylistM3UCL
+#EXTINF:-1,UTalcaTV
+https://unlimited1-cl-isp.dps.live/campustv/campustv.smil/playlist.m3u8
+#EXTINF:-1,TVU
+https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
+#EXTINF:-1,Universidad Autonoma TV
+https://unlimited1-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8
+#EXTINF:-1,TV UCT
+https://unlimited2-cl-isp.dps.live/uct/uct.smil/playlist.m3u8
+#EXTINF:-1,Ufrovision
+https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
+#EXTINF:-1,U Los Lagos
+https://tv.ulagos.cl/web/live.m3u8
+#EXTINF:-1,UMAG TV
+https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8
+#EXTINF:-1,UMAG TV 2
+https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
+#EXTINF:-1,UesTV
+https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8
+#EXTINF:-1,Camara de Diputados
+https://camara.03.wl.cdnz.cl/camara19/live/playlist.m3u8
+#EXTINF:-1,TV Senado
+https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
+#EXTINF:-1,Cultura Online
+https://paneltv.online:1936/8064/8064/playlist.m3u8
+#EXTINF:-1,CEAC TV
+https://videostream.chileservidores.com:8081/ceactv/index.m3u8
+#EXTINF:-1,Teatrix
+https://content.uplynk.com/channel/585ab4fbd865426abd6fbd48fc631b6e.m3u8
+#EXTINF:-1,Puranoticia
+https://pnt.janusmedia.tv/hls/pnt.m3u8
+#EXTINF:-1,Corcubio TV
+http://45.225.95.154:8081/mcg/corcubio/playlist.m3u8
+#EXTINF:-1,Señal Mediabanco
+https://unlimited1-cl-isp.dps.live/mediabanco/mediabanco.smil/playlist.m3u8
+#EXTINF:-1,Teletón TV
+https://mdstrm.com/live-stream-playlist/5d6d5f05a2f6f407b0147965.m3u8
+#EXTINF:-1,Caracola TV
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+#EXTINF:-1,EGM Channel
+https://paneltv.online:1936/8186/8186/playlist.m3u8
+#EXTINF:-1,Radio Lado Oscuro TV
+https://stmv5.voxtvhd.com.br/cattotv/cattotv/playlist.m3u8
+#EXTINF:-1,Raices Arabes TV
+https://tv.streaming-chile.com:1936/raicesarabestv/raicesarabestv/playlist.m3u8
+#EXTINF:-1,Sello de Raza TV
+https://stmv5.voxtvhd.com.br/selloderazatv/selloderazatv/playlist.m3u8
+#EXTINF:-1,Tevex
+https://v2.tustreaming.cl/tevex/index.m3u8
+#EXTINF:-1,TV Salud
+https://panel.miplay.cl:8081/tvsalud/index.m3u8
+#EXTINF:-1,Chile Channel
+https://v2.tustreaming.cl/chilechannel/index.m3u8
+#EXTINF:-1,Campo Abierto TV
+https://v1.tustreaming.cl:19360/campoabierto/campoabierto.m3u8
+#EXTINF:-1,Canal Turismo Travel TV
+https://stmv6.voxtvhd.com.br/turismotravel/turismotravel/playlist.m3u8
+#EXTINF:-1,Cero Anestesia
+https://mist.autoplayout.com/hls/ceroanestesiatv/index.m3u8
+#EXTINF:-1,La Voz De Los Que Sobran TV
+https://unlimited1-cl-isp.dps.live/lvdlqs/lvdlqs.smil/playlist.m3u8
+#EXTINF:-1,Canal Pais
+https://unlimited1-cl-isp.dps.live/canalpais/canalpais.smil/playlist.m3u8
+#EXTINF:-1,Arica TV
+https://5eaccbab48461.streamlock.net:1936/8002/8002/playlist.m3u8
+#EXTINF:-1,Cappissima Multimedial TV
+https://oracle.streaminghd.cl/cappissima/cappissima/playlist.m3u8
+#EXTINF:-1,Puerta Norte
+https://panel.tvstream.cl:1936/8030/8030/playlist.m3u8
+#EXTINF:-1,Iquique TV
+https://marine2.miplay.cl/arcatel/iquiquetv720/video.m3u8
+#EXTINF:-1,Antofagasta TV
+https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8
+#EXTINF:-1,Longino TV
+https://cloud2.streaminglivehd.com:1936/longinotv-1/longinotv-1/playlist.m3u8
+#EXTINF:-1,LRP Television
+https://v2.tustreaming.cl/lrp/index.m3u8
+#EXTINF:-1,TV Norte Digital
+https://v4.tustreaming.cl/tvnortedigital/index.m3u8
+#EXTINF:-1,Televisión Minera del Norte
+https://v1.tustreaming.cl/tmntv/index.m3u8
+#EXTINF:-1,Taltal TV
+https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
+#EXTINF:-1,Holvoet TV
+https://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
+#EXTINF:-1,Atacama Noticias TV
+https://v2.tustreaming.cl/atacamanoticias/index.m3u8
+#EXTINF:-1,Atacama TV
+https://v2.tustreaming.cl/atacamatv/index.m3u8
+#EXTINF:-1,Madero TV
+https://www.cloudscriptdog.cl:19360/madero-video-02-copiapo/madero-video-02-copiapo.m3u8
+#EXTINF:-1,Huasco TV
+https://paneltv.online:1936/8024/8024/playlist.m3u8
+#EXTINF:-1,Alternativa TV
+https://ssh101-fl.bozztv.com/ssh101/alternativatv/index.m3u8
+#EXTINF:-1,Enfoque Digital TV
+https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
+#EXTINF:-1,Radio RT
+https://v1.tustreaming.cl:443/radiort/index.m3u8
+#EXTINF:-1,Origen TV
+https://tv.streaming-chile.com:8081/origentvsd/index.m3u8
+#EXTINF:-1,Nexovision
+https://stmv5.voxtvhd.com.br/nexovision/nexovision/playlist.m3u8
+#EXTINF:-1,Canal 5 Los Vilos
+https://oracle.streaminghd.cl:443/canal5/canal5/playlist.m3u8
+#EXTINF:-1,La Popular TV
+https://tv.streaming-chile.com:8081/lapopulartv/index.m3u8
+#EXTINF:-1,Canal 1440 Coquimbo
+https://stmv5.voxtvhd.com.br/radiocoquimbo/radiocoquimbo/playlist.m3u8
+#EXTINF:-1,ThemaTV
+https://unlimited1-cl-isp.dps.live/thema/thema.smil/playlist.m3u8
+#EXTINF:-1,América TV Chile
+https://v2.tustreaming.cl:/radioamericatv/index.m3u8
+#EXTINF:-1,Señal 21
+https://premium.tvcontrolcp.com:19360/8050/8050.m3u8
+#EXTINF:-1,TV Elqui
+https://v4.tustreaming.cl:443/tvelqui/index.m3u8
+#EXTINF:-1,VTV
+https://unlimited2-cl-isp.dps.live/vtv/vtv.smil/playlist.m3u8
+#EXTINF:-1,TV EnPlacilla
+https://panel.tvstream.cl:1936/8038/8038/playlist.m3u8
+#EXTINF:-1,Marga Marga TV
+https://v1.tustreaming.cl/margamargatv/index.m3u8
+#EXTINF:-1,Estacion TV
+https://v4.tustreaming.cl/limachemovil/index.m3u8
+#EXTINF:-1,Canal LOF Aconcagua
+https://tv.streaming-chile.com:8081/canallof/index.m3u8
+#EXTINF:-1,Canal 74 TeVe
+https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8
+#EXTINF:-1,TV Costa
+https://premium.tvcontrolcp.com:19360/tvcosta1/tvcosta1.m3u8
+#EXTINF:-1,Canal Local
+https://v2.tustreaming.cl/canallocalcl/index.m3u8
+#EXTINF:-1,TV Quinta Region
+https://stmv5.voxtvhd.com.br/tvquintaregion/tvquintaregion/playlist.m3u8
+#EXTINF:-1,Vida Nueva TV
+https://stmv5.voxtvhd.com.br/vidanuevatv/vidanuevatv/playlist.m3u8
+#EXTINF:-1,Frecuencia 7 Aconcagua
+https://v2.tustreaming.cl/frecuencia7/index.m3u8
+#EXTINF:-1,VoxPopuli Chile
+https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
+#EXTINF:-1,Canal 2 de San Antonio
+https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/playlist.m3u8
+#EXTINF:-1,Plaza TV
+https://ssh101-fl.bozztv.com/ssh101/plazatv2/index.m3u8
+#EXTINF:-1,TVR
+https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8
+#EXTINF:-1,Zona de Prensa
+https://stmv5.voxtvhd.com.br/zonadeprensa/zonadeprensa/playlist.m3u8
+#EXTINF:-1,Primicia Vida Television
+https://stmv5.voxtvhd.com.br/primiciavida/primiciavida/playlist.m3u8
+#EXTINF:-1,Tendencias Prime
+https://v4.tustreaming.cl/tendenciastv/index.m3u8
+#EXTINF:-1,Vision Plus TV
+https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
+#EXTINF:-1,Autonoma TV
+https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8
+#EXTINF:-1,Buin Somos Todos
+https://bst.buin.cl/0.m3u8
+#EXTINF:-1,Canal 57 Melipilla
+https://panel.tvstream.cl:1936/8016/8016/playlist.m3u8
+#EXTINF:-1,Canal Noticias Colchagua
+https://oracle.streaminghd.cl:443/cncmedia/cncmedia/playlist.m3u8
+#EXTINF:-1,Telecanal Santa Cruz
+https://eu1.servers10.com:8081/8194/index.m3u8
+#EXTINF:-1,El Tipografo
+http://live.mundogo.cl/mundo/Tipografo/index.m3u8
+#EXTINF:-1,TVO San Vicente
+https://5ff3d9babae13.streamlock.net:443/8014/8014/playlist.m3u8
+#EXTINF:-1,Sextavision
+https://5ff3d9babae13.streamlock.net:443/8020/8020/playlist.m3u8
+#EXTINF:-1,Ekiz TV
+http://live.mundogo.cl/mundo/EquizTV/index.m3u8
+#EXTINF:-1,TVR Canal 11
+https://unlimited6-cl.dps.live/tvrcurico/tvrcurico.smil/playlist.m3u8
+#EXTINF:-1,TV Lascabras.net
+https://ed11ov.live.opencaster.com/dqqbctooisyw/index.m3u8
+#EXTINF:-1,Vivo TV
+https://unlimited2-cl-isp.dps.live/vivotv/vivotv.smil/playlist.m3u8
+#EXTINF:-1,Radio Graneros TV
+https://stmv5.voxtvhd.com.br/radiogranerostv/radiogranerostv/playlist.m3u8
+#EXTINF:-1,En Linea Maule
+https://v1.tustreaming.cl/enlineamauletv/index.m3u8
+#EXTINF:-1,VLTV
+https://andromeda3.trapemn.tv:1936/regionales/vltv.stream/playlist.m3u8
+#EXTINF:-1,El Centro TV
+https://v1.tustreaming.cl:443/diarioelcentrotv/index.m3u8
+#EXTINF:-1,TV 5 Linares
+https://v1.tustreaming.cl/tv5linares/index.m3u8
+#EXTINF:-1,Contivision
+https://unlimited2-cl-isp.dps.live/cm/cm.smil/playlist.m3u8
+#EXTINF:-1,Molina TV
+https://marine2.miplay.cl/molinatv/playlist.m3u8
+#EXTINF:-1,UTV San Clemente
+https://v2.tustreaming.cl/utv/index.m3u8
+#EXTINF:-1,Nativa TV
+https://stmv5.voxtvhd.com.br/nativatv/nativatv/playlist.m3u8
+#EXTINF:-1,Maule Vision
+https://us.streaminghd.cl/maulevision/index.m3u8
+#EXTINF:-1,Canal 30 Loncomilla
+https://v1.tustreaming.cl:19360/canal30loncomilla/canal30loncomilla.m3u8
+#EXTINF:-1,Telecauquenes
+https://glb.bozztv.com/glb/ssh101/telecauquenes/index.m3u8
+#EXTINF:-1,Nueva Region TV
+http://live.mundogo.cl/mundo/Nuevaregion/index.m3u8
+#EXTINF:-1,Canal 1
+https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
+#EXTINF:-1,Región Televisión Ñuble
+https://paneltv.online:1936/8050/8050/playlist.m3u8
+#EXTINF:-1,Canal SCÑ - San Carlos Ñuble
+https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8
+#EXTINF:-1,Ñublevision
+https://v1.tustreaming.cl/nubletv/index.m3u8
+#EXTINF:-1,YungayOnline
+https://stmv5.voxtvhd.com.br/yungayonline/yungayonline/playlist.m3u8
+#EXTINF:-1,ClickTv
+https://v2.tustreaming.cl/clicktv/index.m3u8
+#EXTINF:-1,Supersonika TV
+https://unlimited1-cl-isp.dps.live/supersonikatv/supersonikatv.smil/playlist.m3u8
+#EXTINF:-1,VP Televisión
+https://v1.tustreaming.cl:19360/vozdepoder/vozdepoder.m3u8
+#EXTINF:-1,Concepcion TV
+https://stream.blserver.cl/hls/ctv/index.m3u8
+#EXTINF:-1,Canal 9 Bío Bí­o TV
+https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8
+#EXTINF:-1,TV8
+https://panel.tvstream.cl:1936/8032/8032/playlist.m3u8
+#EXTINF:-1,Pacifico Television
+https://oracle.streaminghd.cl/pacificotelevisionspa/pacificotelevisionspa/playlist.m3u8
+#EXTINF:-1,Canal TV4
+https://videolatam.com:3205/live/tv4televisionlive.m3u8
+#EXTINF:-1,Juntos TV
+https://video.juntostvchile.cl:8879/hls/web-jntv.m3u8
+#EXTINF:-1,Canal Alta Frontera
+https://vdopanel.netzona.cl:3523/live/altafronteralive.m3u8
+#EXTINF:-1,San Pedro Conecta
+https://stmv5.voxtvhd.com.br/sanpedroconectatv/sanpedroconectatv/playlist.m3u8
+#EXTINF:-1,Club TV
+https://stmv5.voxtvhd.com.br/clubtv/clubtv/playlist.m3u8
+#EXTINF:-1,Teleangol Radio
+https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3u8
+#EXTINF:-1,Benfer TV
+https://stmv6.voxtvhd.com.br/benfertv/benfertv/playlist.m3u8
+#EXTINF:-1,CRadio.cl
+https://tls-cl.cdnz.cl/cradio/live/playlist.m3u8
+#EXTINF:-1,Pucon TV
+https://unlimited1-cl-isp.dps.live/pucontv/pucontv.smil/playlist.m3u8
+#EXTINF:-1,Temuco TV
+https://mediacp.nnw.cl:19360/temucotelevision/temucotelevision.m3u8
+#EXTINF:-1,Sureña TV
+http://170.247.204.26:8081/wircom/surena/playlist.m3u8
+#EXTINF:-1,Veo TV
+https://oracle.streaminghd.cl/eduardo555/eduardo555/playlist.m3u8
+#EXTINF:-1,RAYZ Noticias
+https://panel.tvstream.cl:1936/8058/8058/playlist.m3u8
+#EXTINF:-1,Canal Latino 54
+https://videostream.chileservidores.com:8081/latina/index.m3u8
+#EXTINF:-1,TV Canal 5
+https://vdochile.com:3088/stream/play.m3u8
+#EXTINF:-1,Los Sauces TV
+http://live.mundogo.cl/mundo/LossaucesTV/index.m3u8
+#EXTINF:-1,Lanco TV
+https://5e3483cba9114.streamlock.net:443/hfvhxfwxjm/hfvhxfwxjm/playlist.m3u8
+#EXTINF:-1,ATV Valdivia
+https://6362ca6f1fc28.streamlock.net/8028/8028/playlist.m3u8
+#EXTINF:-1,Osorno TV+
+https://envivo.osornotv.cl/memfs/cb5800be-330b-40c9-8519-af788c7e29eb.m3u8
+#EXTINF:-1,Decima TV
+https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8
+#EXTINF:-1,Castro Municipio TV
+https://videostream.chileservidores.com:8081/chiloe4/index.m3u8
+#EXTINF:-1,TVM
+https://stream.skarnetchile.com:19360/canaltvm/canaltvm.m3u8
+#EXTINF:-1,T-Vinet
+https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/playlist.m3u8
+#EXTINF:-1,Canal 2 Quellon
+https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
+#EXTINF:-1,Vision TV
+https://5eaccbab48461.streamlock.net:1936/8260/8260/playlist.m3u8
+#EXTINF:-1,Canal 5 Puerto Montt
+https://stmv5.voxtvhd.com.br/canal5/canal5/playlist.m3u8
+#EXTINF:-1,Canal Chilote
+https://oracle.streaminghd.cl/8030/8030/playlist.m3u8
+#EXTINF:-1,Hito Cero TV
+https://5e3483cba9114.streamlock.net:443/kbwqdhjxtz/kbwqdhjxtz/playlist.m3u8
+#EXTINF:-1,Chiloe Red 25
+https://v2.tustreaming.cl/chiloered/index.m3u8
+#EXTINF:-1,Alerce TV
+https://s1.tvdatta.com:3384/live/canal20tvlive.m3u8
+#EXTINF:-1,Santa Maria TV
+https://unlimited1-cl-isp.dps.live/smtv/smtv.smil/playlist.m3u8
+#EXTINF:-1,Canal 11 TV Aysen
+https://v1.tustreaming.cl:19360/canal11aysen/canal11aysen.m3u8
+#EXTINF:-1,Aysen TV
+https://v1.tustreaming.cl/aysentv/index.m3u8
+#EXTINF:-1,Soberania Radio
+https://tls-cl.cdnz.cl/radiosoberania/live/playlist.m3u8
+#EXTINF:-1,La Melinkana TV
+https://v1.tustreaming.cl/melinkana/index.m3u8
+#EXTINF:-1,SurTV
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/playlist.m3u8
+#EXTINF:-1,ITV Patagonia
+https://unlimited1-cl-isp.dps.live/itv/itv.smil/playlist.m3u8
+#EXTINF:-1,EvaVisión
+https://stmv1.voxtvhd.com.br/evavisioncl/evavisioncl/playlist.m3u8
+#EXTINF:-1,Canal Sur Patagonia
+https://v2.tustreaming.cl/fmarcoirirs/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,PinguinoTV
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8
+#EXTINF:-1,Teletrak
+https://teletraktv.janus.cl/playlist/stream.m3u8?t=0&s=&p=&id=lufuufsd&d=w&PlaylistM3UCL
+#EXTINF:-1,TV Turf
+https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=lufv0n9d&t=1711909093&q=2&s=sd&PlaylistM3UCL
+#EXTINF:-1,Valparaiso Sporting
+https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1,El Galpon 80
+https://streamlov.alsolnet.com/amplificacion/live/playlist.m3u8
+#EXTINF:-1,Sensacion Costa
+https://premium.tvcontrolcp.com:19360/tvcosta2/tvcosta2.m3u8
+#EXTINF:-1,Re7
+https://streamtwo.cloudhostservers.com:3863/stream/play.m3u8
+#EXTINF:-1,La Sabrosura TV
+https://tv.streaming-chile.com:1936/radiosabrosura/radiosabrosura/playlist.m3u8
+#EXTINF:-1,Carolina TV
+https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8
+#EXTINF:-1,Carolina TV 2
+https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8
+#EXTINF:-1,DJ Loncho TV
+https://stream.trixserver.com:3127/live/djloncholive.m3u8
+#EXTINF:-1,Maxima FM
+https://server1.oklanet.cl:1936/difunde-la-maximafmchile/ngrp:difunde-la-maximafmchile_all/playlist.m3u8
+#EXTINF:-1,RadioBaezaTV
+https://panel.tvstream.cl:1936/8056/8056/playlist.m3u8
+#EXTINF:-1,TV vconline.cl
+https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
+#EXTINF:-1,Top New Radio
+https://panel.tvstream.cl:1936/8052/8052/playlist.m3u8
+#EXTINF:-1,Radio Edelweiss
+https://streamdemo.dyndns.biz/hls/edelweiss_src.m3u8
+#EXTINF:-1,Kaos del Flow TV
+https://ssh101-fl.bozztv.com/ssh101/kaosdelflowtv/index.m3u8
+#EXTINF:-1,Radio Araucania Laja
+https://stmv5.voxtvhd.com.br/radioaraucania/radioaraucania/playlist.m3u8
+#EXTINF:-1,M Music TV
+https://cdn.mycloudstream.io/hls/live/broadcast/9b3ke4sb/index.m3u8
+#EXTINF:-1,Radio Acogida
+https://videostream.chileservidores.com:8081/chiloe3/index.m3u8
+#EXTINF:-1,Urban Pro DJ
+https://vdochile.com:3115/hybrid/play.m3u8
+#EXTINF:-1,En la Noticia
+https://videostream.chileservidores.com:8081/chiloe2/index.m3u8
+#EXTINF:-1,Solobailalo TV
+https://5ff3d9babae13.streamlock.net:443/8000/8000/playlist.m3u8
+#EXTINF:-1,Milodon TV
+https://video8.servidordevideo.net:3161/live/ynhpdikjlive.m3u8
+#EXTINF:-1,Radio Continente FM
+https://streamlov.alsolnet.com/continentefm/live/playlist.m3u8
+#EXTINF:-1,Radio Stefania
+https://stmv5.voxtvhd.com.br/franzvalenzuela/franzvalenzuela/playlist.m3u8
+#EXTINF:-1,Radio Rosa FM
+https://tv.streaming-chile.com:8081/rosafm/index.m3u8
+#EXTINF:-1,Radio Bienvenida FM
+https://panel.tvstream.cl:1936/8012/8012/playlist.m3u8
+#EXTINF:-1,Radio UC
+https://stmv5.voxtvhd.com.br/radiouc/radiouc/playlist.m3u8
+#EXTINF:-1,Autonoma Radio
+https://wifispeed.trapemn.tv:1936/radios/autonoma-radio/playlist.m3u8
+#EXTINF:-1,Santa Cruz FM
+https://unlimited1-cl-isp.dps.live/rcruz/rcruz.smil/playlist.m3u8
+#EXTINF:-1,Radio Estacion Arica
+https://5eaccbab48461.streamlock.net:1936/heqhvtgebg/heqhvtgebg/playlist.m3u8
+#EXTINF:-1,Subela Radio
+https://mdstrm.com/live-stream-playlist/6580414b99f9d36397019551.m3u8
+#EXTINF:-1,Radio Ritmo FM
+https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8
+#EXTINF:-1,Radio Mia 89.3 Fm
+https://stmv5.voxtvhd.com.br/radiomia/radiomia/playlist.m3u8
+#EXTINF:-1,Radio Magallanes
+https://us.streaminghd.cl/radiomagallanes/index.m3u8
+#EXTINF:-1,Radio Maqui
+https://streamyes.alsolnet.com/maquiradio/live/playlist.m3u8
+#EXTINF:-1,Radio Popular Coihueco
+https://tv.streaming-chile.com:19360/8052/8052.m3u8
+#EXTINF:-1,Ritmo TV
+https://vdo.streaming-chile.com:3210/live/ritmofmlive.m3u8
+#EXTINF:-1,Emocion TV
+https://v1.tustreaming.cl/emociontv/index.m3u8
+#EXTINF:-1,Zona Play Radio
+https://tv1.mediacp.eu:3131/live/dilxbgxylive.m3u8
+#EXTINF:-1,Tributo Valentina
+https://vdochile.com:3795/hybrid/play.m3u8
+#EXTINF:-1,Radio La Serena
+https://stmv5.voxtvhd.com.br/radiolaserena/radiolaserena/playlist.m3u8
+#EXTINF:-1,Patagonia Radio TV
+https://video01.logicahost.com.br/grupomedia/grupomedia/playlist.m3u8
+#EXTINF:-1,Red Fueguina Radio
+https://inliveserver.com:1936/11012/11012/playlist.m3u8
+#EXTINF:-1,DBox Radio
+https://videostream.chileservidores.com:8081/dboxradio/index.m3u8
+#EXTINF:-1,Radio Zeta
+https://unlimited1-cl-isp.dps.live/radioztv/radioztv.smil/playlist.m3u8
+#EXTINF:-1,Radio Via Libre
+https://stmv5.voxtvhd.com.br/vialibre/vialibre/playlist.m3u8
+#EXTINF:-1,Radio Universal
+https://videostream.chileservidores.com:8081/universal/index.m3u8
+#EXTINF:-1,Radio Touch
+https://tv.streaming-chile.com:1936/radiotouch/radiotouch/playlist.m3u8
+#EXTINF:-1,Sabor TV
+https://v1.tustreaming.cl/sabortv/index.m3u8
+#EXTINF:-1,Radio Riquelme TV
+https://video.radioriquelme.cl/hls/stream.m3u8
+#EXTINF:-1,Radio Rancagua
+https://tv.streaming-chile.com:8081/radiorancagua/index.m3u8
+#EXTINF:-1,Radio Presidente Ibañez
+https://ibanez.servercl.com/hls/live.m3u8
+#EXTINF:-1,Radio Portales
+https://andromeda2.trapemn.tv:1936/radios/radioportales.stream/playlist.m3u8
+#EXTINF:-1,Radio Polar
+https://stmv5.voxtvhd.com.br/radiopolar/radiopolar/playlist.m3u8
+#EXTINF:-1,Radio Las Nieves
+https://v2.tustreaming.cl/rln/index.m3u8
+#EXTINF:-1,Radio Hoy
+https://panel.dattalive.com:443/8146/8146/playlist.m3u8
+#EXTINF:-1,Radio Genial TV
+https://v1.tustreaming.cl:19360/genialtv/genialtv.m3u8
+#EXTINF:-1,Radio Fiessta
+https://www.cloudscriptdog.cl:19360/fiesta-video-01/fiesta-video-01.m3u8
+#EXTINF:-1,Radio Panoramica
+https://v2.tustreaming.cl:/alingeproducciones/index.m3u8
+#EXTINF:-1,Radio Favorita
+https://streamyes.alsolnet.com/radiofavoritatv/live/playlist.m3u8
+#EXTINF:-1,Radio Ñuble
+https://live.tvcontrolcp.com:1936/rnuble/rnuble/playlist.m3u8
+#EXTINF:-1,Radio Fantasia TV
+https://v2.tustreaming.cl/fantasiatv/index.m3u8
+#EXTINF:-1,Cosmos TV
+https://v1.tustreaming.cl/cosmostv/index.m3u8
+#EXTINF:-1,Radio Corporacion
+https://v2.tustreaming.cl/corporaciontv/index.m3u8
+#EXTINF:-1,Radio Chiloe
+https://videostream.chileservidores.com:8081/chiloe1/index.m3u8
+#EXTINF:-1,Radio Camila TV
+https://panel.tvstream.cl:1936/8008/8008/playlist.m3u8
+#EXTINF:-1,Preludio TV
+https://tv.streaming-chile.com:1936/preludio/preludio/playlist.m3u8
+#EXTINF:-1,Orocoipo
+https://panel.tvstream.cl:1936/8018/8018/playlist.m3u8
+#EXTINF:-1,Mi Radio TV
+https://tls-cl.cdnz.cl/miradio2/live/playlist.m3u8
+#EXTINF:-1,Radio Romantica
+https://mdstrm.com/live-stream-playlist/63a0674c1137d408b45d4821.m3u8
+#EXTINF:-1,Interradio TV
+https://5eaccbab48461.streamlock.net:1936/8256/8256/playlist.m3u8
+#EXTINF:-1,FM Pulso
+https://oracle.streaminghd.cl:443/fmpulso/fmpulso/playlist.m3u8
+#EXTINF:-1,Interactiva FM
+https://live.tvcontrolcp.com:1936/interactivafm/interactivafm/playlist.m3u8
+#EXTINF:-1,El Conquistador Santiago
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/elconquistadortv/elconquistadortv.smil/playlist.m3u8
+#EXTINF:-1,El Sembrador
+https://tv.streaming-chile.com:8081/elsembrador/index.m3u8
+#EXTINF:-1,El Conquistador Concepcion
+https://v1.tustreaming.cl:19360/conquistadorconcepcion/conquistadorconcepcion.m3u8
+#EXTINF:-1,ChocolateFM
+https://5eaccbab48461.streamlock.net:1936/8180/8180/playlist.m3u8
+#EXTINF:-1,Radio La Señal
+https://5ff3d9babae13.streamlock.net:443/chrgkqgkyb/chrgkqgkyb/playlist.m3u8
+#EXTINF:-1,Radio Ancoa TV
+https://v2.tustreaming.cl/radioancoatv/index.m3u8
+#EXTINF:-1,Nina TV
+https://stream.skarnetchile.com:19360/ninatv/ninatv.m3u8
+#EXTINF:-1,AE Radio
+https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
+#EXTINF:-1,Estación Metropolitana
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8
+#EXTINF:-1,Eva Television
+https://stream.skarnetchile.com:19360/evatelevision/evatelevision.m3u8
+#EXTINF:-1,Radioactiva TV
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/radioactivatv/radioactivatv.smil/playlist.m3u8
+#EXTINF:-1,La Clave
+https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
+#EXTINF:-1,Pauta TV
+https://unlimited1-cl-isp.dps.live/pautatv/pautatv.smil/playlist.m3u8
+#EXTINF:-1,Radio Tiempo
+https://mdstrm.com/live-stream-playlist/63a0664e0b2e5754a7bed954.m3u8
+#EXTINF:-1,Radio Infinita
+https://mdstrm.com/live-stream-playlist/63a066e54ed536087960b550.m3u8
+#EXTINF:-1,Radio Agricultura
+http://unlimited1-cl-isp.dps.live/921tv/921tv.smil/playlist.m3u8
+#EXTINF:-1,Radio Duna
+https://unlimited1-cl-isp.dps.live/dunatv/dunatv.smil/playlist.m3u8
+#EXTINF:-1,Pudahuel FM
+https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
+#EXTINF:-1,Cooperativa
+https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
+#EXTINF:-1,Bio Bio TV
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
+#EXTINF:-1,ADN
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
+#EXTINF:-1,La Nuestra
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8
+#EXTINF:-1,Vida TV
+https://player.netv.cl/vidatv/index.m3u8
+#EXTINF:-1,Unidad Evangelica TV
+https://v2.tustreaming.cl/unidadevangelica/index.m3u8
+#EXTINF:-1,TNE
+https://v2.tustreaming.cl/tnetv/index.m3u8
+#EXTINF:-1,Televida HD
+https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
+#EXTINF:-1,Restaurando Vidas TV
+https://v4.tustreaming.cl/restaurandovida/index.m3u8
+#EXTINF:-1,Radio Vida Curico
+https://v2.tustreaming.cl/radiovidacurico/rewind-999999.m3u8
+#EXTINF:-1,NCTV
+https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
+#EXTINF:-1,Gracia TV
+https://v4.tustreaming.cl/graciatv/index.m3u8
+#EXTINF:-1,Canal ISB
+https://unlimited1-cl-isp.dps.live/isb/isb.smil/playlist.m3u8
+#EXTINF:-1,Casa Sobre La Roca TV
+https://cp.panelchs.com:1936/8118/8118/playlist.m3u8
+#EXTINF:-1,MC Radio
+https://live.tvcontrolcp.com:1936/manten/manten/playlist.m3u8
+#EXTINF:-1,Telezion
+https://paneltv.net:3751/hybrid/play.m3u8
+#EXTINF:-1,Sonido Nazaret
+https://vdochile.com:3534/hybrid/play.m3u8
+#EXTINF:-1,Metanoia TV
+https://6362ca6f1fc28.streamlock.net/8140/8140/playlist.m3u8
+#EXTINF:-1,TV Emanuel
+https://Stmv5.voxtvhd.com.br/ministerioemanuel/ministerioemanuel/playlist.m3u8
+#EXTINF:-1,IPNA Medio
+https://paneltv.online:1936/8184/8184/playlist.m3u8
+#EXTINF:-1,Enlace BPB
+https://v1.tustreaming.cl/enlacebpbtv/index.m3u8
+#EXTINF:-1,Escuchame Radio
+https://Stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
+#EXTINF:-1,Fortaleza Radio
+https://live.tvcontrolcp.com:1936/fortalezatv/fortalezatv/playlist.m3u8
+#EXTINF:-1,Fortaleza TV
+https://multimedia.fortalezatv.cl/video/video.m3u8
+#EXTINF:-1,CESTV
+https://stmv5.voxtvhd.com.br/cestv/cestv/playlist.m3u8
+#EXTINF:-1,Una Esperanza TV
+https://stream.blserver.cl/cmaf/unaesperanzatv/index.m3u8
+#EXTINF:-1,AnimeStation
+https://xhateaec.com:8800/hls/zenitsurage/zenitsurage/8a102fcf75f3797d2b1abe3b1cad04c0/index.m3u8
+#EXTINF:-1,24-7 TV
+https://stmv5.voxtvhd.com.br/247tv/247tv/playlist.m3u8
+#EXTINF:-1,Canal 5 del Pueblo
+https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
+#EXTINF:-1,Crossing TV
+https://stmv6.voxtvhd.com.br/crossingtv/crossingtv/playlist.m3u8
+#EXTINF:-1,Neo TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1,San Luis Mas
+https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
+#EXTINF:-1,Señal Urbana
+https://video.fiberfly.com.ar/stream/hls1/110106.m3u8
+#EXTINF:-1,UNaM Transmedia
+http://192.100.186.53:8090/hls/live.stream.m3u8
+#EXTINF:-1,Locomotion
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1,Magic Kids
+https://ssh101-fl.bozztv.com/ssh101/magic2019/index.m3u8
+#EXTINF:-1,Paka Paka
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+#EXTINF:-1,VariedTV
+https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8
+#EXTINF:-1,13 Max Television
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
+#EXTINF:-1,5R TV Santa Fe
+http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+#EXTINF:-1,5TV
+https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
+#EXTINF:-1,Acequia
+http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8
+#EXTINF:-1,Agenda Necochense
+https://stmv5.livecastv.com/neccoagenda/neccoagenda/playlist.m3u8
+#EXTINF:-1,Aire de Santa Fe
+https://redirector.dps.live/hls/airedesantafetv/playlist.m3u8
+#EXTINF:-1,Alegria TV
+https://videostream.shockmedia.com.ar:19360/cadenaalegriafm/cadenaalegriafm.m3u8
+#EXTINF:-1,Antena 91
+https://tuvideoonline.com.ar:3393/live/antena91live.m3u8
+#EXTINF:-1,Argentinisima Satelital
+https://stream1.sersat.com/hls/argentinisima.m3u8
+#EXTINF:-1,AVC HD
+https://ssh101.bozztv.com/ssh101/streamavc/playlist.m3u8
+#EXTINF:-1,Azahares Radio Multimedia
+http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
+#EXTINF:-1,Bayres TV
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+#EXTINF:-1,BTV Digital
+https://fl1002.bozztv.com/ssh101/btvdigital/mono.m3u8
+#EXTINF:-1,Cadena 103
+https://stream.arcast.live:443/cadena103/cadena103/playlist.m3u8
+#EXTINF:-1,Calchaqui TV
+https://stream.trixserver.com:3836/live/uv068live.m3u8
+#EXTINF:-1,Canal 10
+https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
+#EXTINF:-1,Canal 10 Nortevision
+https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
+#EXTINF:-1,Canal 10 Rio Negro
+https://panel.host-live.com:443/tvrionegro/ngrp:tvrionegro_all/playlist.m3u8
+#EXTINF:-1,Canal 10 San Rafael
+https://streamcasthd.com:1936/tvdiez/tvdiez/playlist.m3u8
+#EXTINF:-1,Canal 11 de La Costa
+https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
+#EXTINF:-1,Canal 12 Madryn TV
+https://5f700d5b2c46f.streamlock.net:443/madryntv/madryntv/playlist.m3u8
+#EXTINF:-1,Canal 13 La Rioja
+https://stream.arcast.host:8443/mp/mp/playlist.m3u8
+#EXTINF:-1,Canal 2 Misiones
+https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
+#EXTINF:-1,Canal 2 Sanagasta
+https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8
+#EXTINF:-1,Canal 20 Villamaria
+https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
+#EXTINF:-1,Canal 21 TV
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
+#EXTINF:-1,Canal 22 Buenos Aires
+https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/playlist.m3u8
+#EXTINF:-1,Canal 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+#EXTINF:-1,Canal 3 Formosa
+https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
+#EXTINF:-1,Canal 3 La Pampa
+https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
+#EXTINF:-1,Canal 3 Las Heras
+https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
+#EXTINF:-1,Canal 3 Pinamar
+https://intelincloud01.com.ar/hls/cn3/index.m3u8
+#EXTINF:-1,Canal 3 Rosario
+https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
+#EXTINF:-1,Canal 34 San Juan
+https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+#EXTINF:-1,Canal 4 Bahia Blanca
+https://bvclive1.boldmss.com/BVC_HD/BVC_HD.isml/BVC_HD.m3u8?dvr_window_length=60&PlaylistM3UCL
+#EXTINF:-1,Canal 4 Balcarce
+https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
+#EXTINF:-1,Canal 4 Eldorado
+https://stream.arcast.com.ar/canal4eldorado/canal4eldorado/playlist.m3u8
+#EXTINF:-1,Canal 4 Esquel
+https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
+#EXTINF:-1,Canal 4 Jujuy
+https://5cd577a3dd8ec.streamlock.net/CAMARAS/live4/playlist.m3u8
+#EXTINF:-1,Canal 4 Posadas
+https://iptv.ixfo.com.ar:30443/live-HD/C4POS/playlist.m3u8
+#EXTINF:-1,Canal 4 San Juan
+https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+#EXTINF:-1,Canal 40 Caucete
+https://canalsj.kozow.com/canal40/index.m3u8
+#EXTINF:-1,Canal 5 Pico Truncado
+https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
+#EXTINF:-1,Canal 5 Santa Fe
+https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
+#EXTINF:-1,Canal 5 Tucuman
+https://videohd.live:19360/8090/8090.m3u8
+#EXTINF:-1,Canal 50 Morteros
+https://coopmorteros.online/canal50/vivo.m3u8
+#EXTINF:-1,CANAL 5TV
+https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8
+#EXTINF:-1,Canal 6 Entre Rios
+https://stmvideo1.livecastv.com/canal6er/canal6er/playlist.m3u8
+#EXTINF:-1,Canal 6 Mar del Plata
+https://panel.dattalive.com:443/8166/8166/playlist.m3u8
+#EXTINF:-1,Canal 6 Moreno
+https://stream.arcast.com.ar/canal6moreno/canal6moreno/playlist.m3u8
+#EXTINF:-1,Canal 6 Posadas
+https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
+#EXTINF:-1,Canal 7 Jujuy
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+#EXTINF:-1,Canal 7 Neuquen
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
+#EXTINF:-1,Canal 7 TV
+https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
+#EXTINF:-1,Canal 79 Mar del Plata
+https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
+#EXTINF:-1,Canal 8 Catamarca
+https://stream.arcast.com.ar/c8/c8/playlist.m3u8
+#EXTINF:-1,Canal 8 Mar del Plata
+https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
+#EXTINF:-1,Canal 9 La Rioja
+https://inliveserver.com:1936/17012/17012/playlist.m3u8
+#EXTINF:-1,Canal 9 Litoral
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
+#EXTINF:-1,Canal 9 Resistencia
+http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
+#EXTINF:-1,Canal 9 Rio Cuarto
+https://streamcasthd.com:1936/canal9riocuartotv/canal9riocuartotv/playlist.m3u8
+#EXTINF:-1,Canal 9 Televida
+https://unlimited1-cl-isp.dps.live/televidaar/televidaar.smil/playlist.m3u8
+#EXTINF:-1,Canal 907 FM Comunicar
+https://panel.dattalive.com/canal907/canal907/chunklist_w1205944599.m3u8
+#EXTINF:-1,Canal Cinco Tigre
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
+#EXTINF:-1,Canal Coop
+https://panel.dattalive.com:443/8138/8138/playlist.m3u8
+#EXTINF:-1,Canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+#EXTINF:-1,Canal Provincial
+https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1,Canal Rural
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8
+#EXTINF:-1,Caras TV
+https://unlimited2-cl-isp.dps.live/carastv/carastv.smil/playlist.m3u8
+#EXTINF:-1,Catamarca TV
+https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8
+#EXTINF:-1,Celta TV
+https://vivo.solumedia.com:19360/celta/celta.m3u8
+#EXTINF:-1,Chaco TV
+https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
+#EXTINF:-1,Chacra TV
+https://s8.stweb.tv/chacra/live/playlist.m3u8
+#EXTINF:-1,Chilecito TV
+https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
+#EXTINF:-1,Ciudad Magica TV
+https://stmv4.voxtvhd.com.br/cdadmagicatv/cdadmagicatv/playlist.m3u8
+#EXTINF:-1,Ciudad TV
+http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
+#EXTINF:-1,Ciudad TV Resistencia
+http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
+#EXTINF:-1,CMT
+https://cablemor.andremor.dev/live/CMT_Argentina/index.m3u8
+#EXTINF:-1,CN 24/7 Neuquen
+https://panel.dattalive.com/6605140/6605140/playlist.m3u8
+#EXTINF:-1,Corrientes TV
+https://stmvideo2.livecastv.com/canal7/canal7/playlist.m3u8
+#EXTINF:-1,Cosmos TV
+https://videostream.shockmedia.com.ar:19360/cosmostv/cosmostv.m3u8
+#EXTINF:-1,CPE TV
+https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
+#EXTINF:-1,CVision TV
+https://stream.cvisiontv.com/cvision_stream.m3u8
+#EXTINF:-1,Demos Radio Visual
+https://panel.dattalive.com/8066/8066/playlist.m3u8
+#EXTINF:-1,Diti TV
+https://ssh101-fl.bozztv.com/ssh101/dititv/index.m3u8
+#EXTINF:-1,Eco TV
+https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
+#EXTINF:-1,El 10 TV Salta
+https://restreamer.el10tv.com/memfs/725003c4-79c2-4565-8311-f429db4f7777.m3u8
+#EXTINF:-1,El Histonauta TV
+https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
+#EXTINF:-1,El Nueve
+https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
+#EXTINF:-1,El Palomar TV Tucuman
+https://video.streamtvradio.com:8443/uv038/uv038/playlist.m3u8
+#EXTINF:-1,El Trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1,Encuentro
+https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
+#EXTINF:-1,Fenix
+https://stmvideo1.livecastv.com/fenixlarioja/fenixlarioja/playlist.m3u8
+#EXTINF:-1,Flow Noticias
+https://fl1002.bozztv.com/ssh101/flownoticias/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FM Cowboy
+https://stmvideo1.livecastv.com/mundomusical/mundomusical/playlist.m3u8
+#EXTINF:-1,FM Metropolitana 100.5 MHZ
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+#EXTINF:-1,FM Universo
+https://stmvideo6.livecastv.com/elborne/elborne/playlist.m3u8
+#EXTINF:-1,GEN TV
+https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
+#EXTINF:-1,Informacion Periodistica
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+#EXTINF:-1,Ingenio FM
+https://panel.dattalive.com/8064/8064/playlist.m3u8
+#EXTINF:-1,Junto Al Campo
+https://stmv5.livecastv.com/juntoalcampo/juntoalcampo/playlist.m3u8
+#EXTINF:-1,La 100
+https://live-05-13-la100.vodgc.net/live-05-13-la100/index.m3u8
+#EXTINF:-1,La Nacion+
+https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+#EXTINF:-1,La Uno TV
+https://stmvideo2.livecastv.com/launotv/launotv/playlist.m3u8
+#EXTINF:-1,La Voz Argentina
+https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8
+#EXTINF:-1,Lapacho TV Canal 11
+https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8
+#EXTINF:-1,Latina TV Mendoza
+https://videostream.shockmedia.com.ar:19360/latinatv/latinatv.m3u8
+#EXTINF:-1,Link TV
+https://panel.dattalive.com:443/8128_1/8128_1/playlist.m3u8
+#EXTINF:-1,Litus TV
+https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:-1,LTO Television
+https://ltocatamarca.github.io/ltotv.m3u8
+#EXTINF:-1,Malbec Play
+https://streamlov.alsolnet.com/malbecplay/live/playlist.m3u8
+#EXTINF:-1,Mas FM
+https://vivo.solumedia.com:19360/masfm/masfm.m3u8
+#EXTINF:-1,Maxima TV
+https://cageu.bozztv.com/ssh101/ssh101/maxtvstreaming/playlist.m3u8
+#EXTINF:-1,Medios Provincia
+https://stream.arcast.net:4443/mp/mp/playlist.m3u8
+#EXTINF:-1,Megaclassic TV
+https://stmvideo1.livecastv.com/megaclassic/megaclassic/playlist.m3u8
+#EXTINF:-1,Metropolitana FM
+https://panel.dattalive.com/MetropolitanaFM/MetropolitanaFM/playlist.m3u8
+#EXTINF:-1,Milenium TV
+https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8
+#EXTINF:-1,Misiones Cuatro
+https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8
+#EXTINF:-1,Multivisión
+https://panel.host-live.com:443/825000/825000/playlist.m3u8
+#EXTINF:-1,Neo Net Music
+https://fl1002.bozztv.com/ssh101/neonetmusic/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Neox TV
+https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
+#EXTINF:-1,Net TV
+https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1,OKfm 105.7
+https://panel.dattalive.com/8124/8124/playlist.m3u8
+#EXTINF:-1,Play Television
+https://vivo.solumedia.com:19360/playtv/playtv.m3u8
+#EXTINF:-1,Power
+https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
+#EXTINF:-1,Power Max TV
+https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
+#EXTINF:-1,Quaere TV
+https://glb.bozztv.com/glb/ssh101/quaerearg/index.m3u8
+#EXTINF:-1,Quatro TV
+https://stream.arcast.live/quatro/quatro/playlist.m3u8
+#EXTINF:-1,Radio Blu
+https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
+#EXTINF:-1,Radio Diversidad
+https://srv2.zcast.com.br/diversidad/diversidad/playlist.m3u8
+#EXTINF:-1,Radio TV Neuquen
+http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
+#EXTINF:-1,Radio Valle Viejo
+https://stmvideo1.livecastv.com/valleviejo/valleviejo/playlist.m3u8
+#EXTINF:-1,Radiocanal San Francisco
+http://204.199.3.2/.m3u8
+#EXTINF:-1,RBD Radio Multimedia
+https://videostream.shockmedia.com.ar:19360/rbdradio/rbdradio.m3u8
+#EXTINF:-1,Retro Magico
+https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
+#EXTINF:-1,Sello TV
+https://5f700d5b2c46f.streamlock.net:443/elsellotv/elsellotv/playlist.m3u8
+#EXTINF:-1,Senillosa TV
+https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8
+#EXTINF:-1,Sicardi TV
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+#EXTINF:-1,Solive TV
+https://stmv1.cnarlatam.com/solivetv/solivetv/playlist.m3u8
+#EXTINF:-1,Somos La Pampa
+https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
+#EXTINF:-1,T5 Satelital
+https://tv.t5satelital.com/tvhls/streamcorrientes.m3u8
+#EXTINF:-1,TDC TV Santa Fe
+https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
+#EXTINF:-1,TEC TV
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+#EXTINF:-1,Tele Estrella
+https://stmvideo6.livecastv.com/telestrella/telestrella/playlist.m3u8
+#EXTINF:-1,Tele Posadas HD
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/teleposadas5/playlist.m3u8
+#EXTINF:-1,Telecondor Internacional
+https://stmvideo1.livecastv.com/telecondor/telecondor/playlist.m3u8
+#EXTINF:-1,Telecreativa
+https://panel.dattalive.com:443/8012/8012/playlist.m3u8
+#EXTINF:-1,Telediario Televisión
+https://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8
+#EXTINF:-1,Telediez
+https://videohd.live:19360/8020/8020.m3u8
+#EXTINF:-1,Telefe Rosario
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
+#EXTINF:-1,TeleJunin
+https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
+#EXTINF:-1,Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:-1,TeleNord
+http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
+#EXTINF:-1,Telesol San Juan
+https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
+#EXTINF:-1,Televideo
+https://stmvideo1.livecastv.com/televideo/televideo/playlist.m3u8
+#EXTINF:-1,Televideo Regional
+https://inliveserver.com:1936/8050_1/8050_1/playlist.m3u8
+#EXTINF:-1,Telpin Canal 2
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
+#EXTINF:-1,Tierramia TV
+https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+#EXTINF:-1,Tribu TV
+https://stream.arcast.com.ar/tributv/tributv/playlist.m3u8
+#EXTINF:-1,TV Dos Salta
+https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
+#EXTINF:-1,TV Mana
+https://w2.manasat.com:443/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
+#EXTINF:-1,TV Publica Fueguina
+https://nd106.republicaservers.com:4433/c6988.mp4
+#EXTINF:-1,TV Solidaria
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
+#EXTINF:-1,TV Universidad
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+#EXTINF:-1,Tvmaxcba
+https://stmvideo3.livecastv.com/tvmaxcba/tvmaxcba/playlist.m3u8
+#EXTINF:-1,Uni Teve
+https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
+#EXTINF:-1,UNIRIO
+https://audiov-srv2.rec.unrc.edu.ar/hls/stream.m3u8
+#EXTINF:-1,Urbana TeVe
+https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8
+#EXTINF:-1,Ver TV
+https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
+#EXTINF:-1,Vive TV
+https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
+#EXTINF:-1,Vorterix
+https://g4.vxral-slo.transport.edge-access.net/b04/ngrp:vorterix_video1-20057_all/Playlist.m3u8?sense=true&PlaylistM3UCL
+#EXTINF:-1,VTV Mendoza
+https://5f700d5b2c46f.streamlock.net:443/vtvmendoza/vtvmendoza/playlist.m3u8
+#EXTINF:-1,Zapp Uno
+https://glb.bozztv.com/glb/ssh101/zappuno/index.m3u8
+#EXTINF:-1,Zonda TV
+https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
+#EXTINF:-1,DEPORTV
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1,Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1,Net TV
+https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1,TV Publica
+https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+#EXTINF:-1,Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1,PANC TV
+https://panel.host-live.com:19360/81500/81500.m3u8
+#EXTINF:-1,Sonido Sur
+https://tv.streamcasthd.com:3553/live/sonidosurtvlive.m3u8
+#EXTINF:-1,ZN Noticias
+https://nd106.republicaservers.com/znnoticias.mp4
+#EXTINF:-1,Canal 6 - Viento Recio Internacional
+https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8
+#EXTINF:-1,Inminente TV
+https://stmvideo6.livecastv.com/zonagospel/zonagospel/playlist.m3u8
+#EXTINF:-1,Monte Grande
+https://glb.bozztv.com/glb/ssh101/montegrandetv/index.m3u8
+#EXTINF:-1,Cali TV
+https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
+#EXTINF:-1,Canal 12 Valledupar
+https://edge.teveo.com.co/live/AeAAAgAJAAFFA1IAyADIQCAAAAAAAAAAAmaBpKu1K3lYAAAA/playlist.m3u8
+#EXTINF:-1,Canal Capital
+https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
+#EXTINF:-1,Canal CNC Medellin
+https://hvtraficonew.ddns.net/cncmedellin720/canalcncmedellin.stream_720p/index.m3u8
+#EXTINF:-1,Canal CNC Pasto
+http://pastocnc1.ddns.net/pastocnc9/cnc9/playlist.m3u8
+#EXTINF:-1,Canal Doce Sincelejo
+http://api.new.livestream.com/accounts/27724665/events/8376416/live.m3u8
+#EXTINF:-1,Canal Institucional
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1,Canal Trece
+https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8
+#EXTINF:-1,Canal TRO
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
+#EXTINF:-1,Canal Visión Dorada
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1,Caracol
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+#EXTINF:-1,Cosmovisión
+https://videohls2.cosmovision.tv/hls/sd.m3u8
+#EXTINF:-1,CTV
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
+#EXTINF:-1,Melody Channel TV
+https://melodychanneltv.moxapps.shop/live/GHkktiwlTkRa57Extm5Vl5Z6fC02/index.m3u8
+#EXTINF:-1,Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1,Suram
+https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
+#EXTINF:-1,TDI
+https://play.amelbasoluciones.co:19360/tdicolombia/tdicolombia.m3u8
+#EXTINF:-1,Tele Islas
+https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/playlist.m3u8
+#EXTINF:-1,Telecafe
+https://liveingesta118.cdnmedia.tv/telecafelive/smil:rtmp01.smil/playlist.m3u8
+#EXTINF:-1,Telemedellin
+https://liveingesta118.cdnmedia.tv//telemedellintvlive/smil:dvrlive.smil/playlist.m3u8
+#EXTINF:-1,Telepacífico
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
+#EXTINF:-1,Zoom TV
+https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
+#EXTINF:-1,Canal Capital
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+#EXTINF:-1,Amordiscos TV
+https://amordiscosretrotv.moxapps.shop/live/cdYgaZmmh2VPhscWTxBp1kd9Egb2/index.m3u8
+#EXTINF:-1,Telemusica
+https://telemusicahit.moxapps.shop/live/bu1rJpIiHrcRa4T1e972hnMExiw1/index.m3u8
+#EXTINF:-1,Tele Familia
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
+#EXTINF:-1,TV Gracia
+https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8
+#EXTINF:-1,Tele Pasto
+https://hvtraficonew.ddns.net/telepasto/telepasto.stream/index.m3u8
+#EXTINF:-1,TV Peñol
+https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
+#EXTINF:-1,Oasis TV
+https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
+#EXTINF:-1,Cristovision
+https://liveingesta118.cdnmedia.tv/cristovisiontvlive/smil:rtmp01.smil/playlist.m3u8
+#EXTINF:-1,Buenisima Radio TV
+https://stream.mediaserver.com.co:8088/live/buenisimatv.m3u8
+#EXTINF:-1,Noticiero 90 Minutos
+https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/026/playlist.m3u8
+#EXTINF:-1,Veo TV
+https://movil.ejeserver.com/live/veotv.m3u8
+#EXTINF:-1,Memorias TV
+https://stmv6.voxtvhd.com.br/memoriastv/memoriastv/playlist.m3u8
+#EXTINF:-1,Teleamiga
+https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8
