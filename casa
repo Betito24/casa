@@ -48,26 +48,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df
 
 
 
-#EXTINF:-1,PRINCIPAL
-http://clubtv.link/N151124n/phpcode/lista.php?c=474&token=TecnotvGen1711&f=.m3u8
-#EXTINF:-1,@TecnotvChat
-http://clubtv.link/N151124n/phpcode/lista.php?c=474&token=TecnotvGen1711&f=.m3u8
-#EXTINF:-1,Wapp
-http://clubtv.link/N151124n/phpcode/distro.php?c=wapptv
-#EXTINF:-1,El Conflicto TV
-http://clubtv.link/N151124n/phpcode/distro.php?c=el-conflicto-tv
-#EXTINF:-1,Glewedtv Spanish
-http://clubtv.link/N151124n/phpcode/distro.php?c=glewedtv-spanish
-#EXTINF:-1,La Bocina Latina
-http://clubtv.link/N151124n/phpcode/distro.php?c=la-bocina-latina
-#EXTINF:-1,Banda
-http://clubtv.link/N151124n/phpcode/distro.php?c=freetv-banda
-#EXTINF:-1,trace Latina
-http://clubtv.link/N151124n/phpcode/distro.php?c=trace-latina
-#EXTINF:-1,FreeTV Hits
-http://clubtv.link/N151124n/phpcode/distro.php?c=freetv-hits
-#EXTINF:-1,XFT TV
-http://clubtv.link/N151124n/phpcode/distro.php?c=xfc-tv
+
 #EXTINF:-1,Familia
 http://clubtv.link/N151124n/phpcode/distro.php?c=freetv-familia
 #EXTINF:-1,Terror
